@@ -1,19 +1,13 @@
 ﻿id_artista,nombre_artista,titulo_cancion,titulo_album,tipo,anio_lanzamiento,genero,id_genero
-655248,Les artistes des Antilles,Madiana,"Les Antilles, vol. 1 : Cuba, Haiti, La Guadeloupe, Trinidad et Tobago",album,1999,Pop,132
-1173980,"Doug Walker, Steel Drum Artist",Old Macdonald,"Caribbean Kids Collection, Vol 1",album,2011,Niños,95
 290,Madonna,Like a Prayer,Like a Prayer,album,2005,Pop,132
-4781,Joe Bonamassa,To Know You Is To Love You,B.B. King's Blues Summit 100,colaboracion,2026,Rock,152
-812837,Dolapdere Big Gang,Karma Chameleon,Art-Ist,colaboracion,2010,,-1
 290,Madonna,La Isla Bonita,True Blue,album,1986,Pop,132
 290,Madonna,Hung Up,Confessions on a Dance Floor,album,2005,Pop,132
 290,Madonna,Bring Your Love,Bring Your Love,colaboracion,2026,Dance,113
 290,Madonna,I Feel So Free,I Feel So Free,single,2026,Dance,113
 290,Madonna,Vogue,The Immaculate Collection,album,1990,Pop,132
 290,Madonna,4 Minutes (feat. Justin Timberlake and Timbaland),Hard Candy (Deluxe Digital),album,2008,Pop,132
-76053262,Fred again..,Marea (we’ve lost dancing),Marea (we’ve lost dancing),colaboracion,2021,Electro,106
 290,Madonna,I Feel So Free (Peggy Gou Energy Mix),I Feel So Free (Peggy Gou Energy Mix),colaboracion,2026,Dance,113
 290,Madonna,Like a Prayer (Battle Royale Mix from “Deadpool & Wolverine”),"Deadpool & Wolverine: Madonna's ""Like a Prayer"" EP",colaboracion,2024,Pop,132
-4050205,The Weeknd,Popular (From The Idol Vol. 1 Music from the HBO Original Series),Popular (Music from the HBO Original Series),colaboracion,2023,Películas/Juegos,173
 290,Madonna,Material Girl,Like a Virgin,album,2005,Pop,132
 290,Madonna,Sorry,Confessions on a Dance Floor,album,2005,Pop,132
 290,Madonna,Get Together,Confessions on a Dance Floor,album,2005,Pop,132
@@ -53,15 +47,12 @@
 174,Whitney Houston,I Wanna Dance with Somebody (Live from That's What Friends Are For: Arista Records 15th Anniversary Concert),Whitney Houston Live: Her Greatest Performances,album,2014,R&B,165
 174,Whitney Houston,I Will Always Love You,The Bodyguard - Original Soundtrack Album,album,1992,Películas/Juegos,173
 174,Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),Whitney,album,1987,Pop,132
-4768753,Kygo,Higher Love,Higher Love,colaboracion,2019,Electro,106
 174,Whitney Houston,I Have Nothing,The Bodyguard - Original Soundtrack Album,album,1992,Películas/Juegos,173
 174,Whitney Houston,Run to You,The Bodyguard - Original Soundtrack Album,album,1992,Películas/Juegos,173
 174,Whitney Houston,Saving All My Love for You,Whitney Houston,album,1985,Pop,132
 174,Whitney Houston,It's Not Right But It's Okay,My Love Is Your Love,album,1998,Pop,132
-5068032,Felix Jaehn,It's Not Right But It's Okay,It's Not Right But It's Okay,colaboracion,2025,Pop,132
 174,Whitney Houston,My Love Is Your Love,My Love Is Your Love,album,1998,Pop,132
 174,Whitney Houston,"I Know Him So Well (from ""Chess"")",Whitney,colaboracion,1987,Pop,132
-9811408,Calum Scott,I Wanna Dance With Somebody (Who Loves Me),I Wanna Dance With Somebody (Who Loves Me),colaboracion,2025,Pop,132
 174,Whitney Houston,One Moment in Time (Remastered),The Ultimate Collection,album,2007,R&B,165
 174,Whitney Houston,All at Once,Whitney Houston,album,1985,Pop,132
 174,Whitney Houston,Didn't We Almost Have It All,The Ultimate Collection,album,2007,R&B,165
@@ -70,7 +61,6 @@
 174,Whitney Houston,So Emotional,I Will Always Love You: The Best Of Whitney Houston,album,2012,Pop,132
 174,Whitney Houston,I'm Every Woman,The Bodyguard - Original Soundtrack Album,album,1992,Películas/Juegos,173
 174,Whitney Houston,I'm Your Baby Tonight,The Ultimate Collection,album,2007,R&B,165
-65,Mariah Carey,When You Believe (from The Prince of Egypt),Greatest Hits,colaboracion,2007,Pop,132
 174,Whitney Houston,Queen of the Night (Radio Edit),The Bodyguard - Original Soundtrack Album,album,1992,Películas/Juegos,173
 174,Whitney Houston,Where Do Broken Hearts Go (Remastered),The Ultimate Collection,album,2007,R&B,165
 174,Whitney Houston,How Will I Know,Whitney Houston (The Deluxe Anniversary Edition),album,1985,Pop,132
@@ -79,7 +69,6 @@
 174,Whitney Houston,I Wanna Dance With Somebody (Who Loves Me),"I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",colaboracion,2022,Dance,113
 174,Whitney Houston,Million Dollar Bill,I Look To You,album,2009,Pop,132
 174,Whitney Houston,It's Not Right but It's Okay (Thunderpuss Mix/Remastered: 2000),Dance Vault Remixes - It's Not Right But It's Okay,colaboracion,2006,Dance,113
-2792,Enrique Iglesias,Could I Have This Kiss Forever,Enrique,colaboracion,2000,Pop,132
 174,Whitney Houston,Miracle,I'm Your Baby Tonight,album,1990,Pop,132
 174,Whitney Houston,Something In Common,Bobby,colaboracion,2018,R&B,165
 174,Whitney Houston,If I Told You That,My Love Is Your Love,album,1998,Pop,132
@@ -93,18 +82,15 @@
 174,Whitney Houston,You Give Good Love,Whitney Houston,album,1985,Pop,132
 174,Whitney Houston,I Will Always Love You (Film Version),I Wish You Love: More From The Bodyguard,album,2017,R&B,165
 174,Whitney Houston,I Look to You,I Look To You,album,2009,Pop,132
-65,Mariah Carey,The Prince Of Egypt (When You Believe),The Prince Of Egypt (Music From The Original Motion Picture Soundtrack),colaboracion,1998,Películas/Juegos,173
 174,Whitney Houston,Lover for Life,I'm Your Baby Tonight,album,1990,Pop,132
 174,Whitney Houston,I Didn't Know My Own Strength,I Look To You,album,2009,Pop,132
 174,Whitney Houston,Love Is a Contact Sport,Whitney,album,1987,Pop,132
 174,Whitney Houston,I'm Your Baby Tonight (Yvonne Turner Extended Remix),I'm Your Baby Tonight (EP),colaboracion,1990,Dance,113
 174,Whitney Houston,For The Lovers,I Look To You,album,2009,Pop,132
 3521,Donna Summer,Bad Girls,Bad Girls,album,2018,R&B,165
-7973524,Babyface Ray,Donda Bag,Summer's Mine,album,2023,Rap/Hip Hop,116
 3521,Donna Summer,Hot Stuff,Bad Girls,album,2018,R&B,165
 3521,Donna Summer,I Feel Love,I Remember Yesterday,album,1991,Disco,168
 3521,Donna Summer,Love To Love You Baby (Single Edit),Summer: The Original Hits,album,2018,Pop,132
-4768753,Kygo,Hot Stuff,Hot Stuff,colaboracion,2020,Electro,106
 3521,Donna Summer,She Works Hard For The Money,She Works Hard For The Money,album,1987,R&B,165
 3521,Donna Summer,On The Radio,Summer: The Original Hits,album,2018,Pop,132
 3521,Donna Summer,Last Dance (Single Version),Summer: The Original Hits,album,2018,Pop,132
@@ -112,7 +98,6 @@
 3521,Donna Summer,"I Feel Love (12"" Version)",Bad Girls (Deluxe Edition),album,2018,Pop,132
 3521,Donna Summer,Last Dance (Live),VH1 Presents Live & More Encore!,album,1999,Pop,132
 3521,Donna Summer,Last Dance,On The Radio: Greatest Hits Volumes I & II,album,2018,R&B,165
-5657,Barbra Streisand,No More Tears (Enough Is Enough) (feat. Donna Summer),The Essential Barbra Streisand,colaboracion,2002,Pop,132
 3521,Donna Summer,Hot Stuff (Single Version),Summer: The Original Hits,album,2018,Pop,132
 3521,Donna Summer,I Feel Love,Music For Seventies,album,2007,Pop,132
 3521,Donna Summer,Come With Me,A Love Trilogy,album,2018,Disco,168
@@ -152,7 +137,6 @@
 2025,Cyndi Lauper,All Through the Night,True Colors: The Best Of Cyndi Lauper,album,2014,Pop,132
 2025,Cyndi Lauper,"The Goonies 'R' Good Enough (From ""The Goonies"" Soundtrack)",The Goonies (Original Motion Picture Soundtrack),album,1985,Películas/Juegos,173
 2025,Cyndi Lauper,She Bop,True Colors: The Best Of Cyndi Lauper,album,2014,Pop,132
-62,U.S.A. for Africa,We Are The World (Remastered),We Are The World (Remastered),colaboracion,2025,Pop,132
 2025,Cyndi Lauper,True Colors,The Body Acoustic,album,2005,Pop,132
 2025,Cyndi Lauper,Intros / She Bop (Live) (Remastered),"Live At The Agora Ballroom, Cleveland, Ohio, 14 December, 1983 (Remastered)",album,2015,Pop,132
 2025,Cyndi Lauper,Yeah Yeah (Live) (Remastered),"Live At The Agora Ballroom, Cleveland, Ohio, 14 December, 1983 (Remastered)",album,2015,Pop,132
@@ -169,15 +153,12 @@
 2025,Cyndi Lauper,That's What I Think,Hat Full Of Stars,album,1993,Pop,132
 2025,Cyndi Lauper,If You Go Away (Album Version),At Last,album,2003,Pop,132
 2025,Cyndi Lauper,Don't Let Me Be Misunderstood (Album Version),At Last,album,2003,Pop,132
-10597,Roger Waters,Another Brick In The Wall (Part 2) (Live In Berlin),The Wall - Live In Berlin,colaboracion,2011,Rock,152
-621,The Hives,A Christmas Duel,A Christmas Duel,colaboracion,2008,Rock,152
 2025,Cyndi Lauper,Dear John (Album Version),Hat Full Of Stars,album,1993,Pop,132
 2025,Cyndi Lauper,Witness,She's So Unusual,album,1983,Pop,132
 2025,Cyndi Lauper,Dancing With A Stranger (Album Version),True Colors: The Best Of Cyndi Lauper,album,2014,Pop,132
 2025,Cyndi Lauper,How Blue Can You Get?,Memphis Blues,colaboracion,2010,Rock,152
 2025,Cyndi Lauper,Hymn To Love (Album Version),At Last,album,2003,Pop,132
 1049,Kate Bush,Running Up That Hill (A Deal With God),Hounds Of Love,album,1985,Pop,132
-13702,DJ Kay Slay,Rolling 200 Deep,Rolling 200 Deep,colaboracion,2023,Rap/Hip Hop,116
 1049,Kate Bush,Wuthering Heights,The Kick Inside,album,1978,Rock,152
 1049,Kate Bush,Army Dreamers,Never for Ever,album,1980,Rock,152
 1049,Kate Bush,Babooshka,Never for Ever,album,1980,Rock,152
@@ -273,7 +254,6 @@
 303,Gloria Gaynor,Man Of Peace,Testimony,colaboracion,2019,,-1
 303,Gloria Gaynor,Singin' Over Me,Testimony,colaboracion,2019,,-1
 220,Bonnie Tyler,Total Eclipse of the Heart,Heaven & Hell,album,1993,Pop,132
-542,David Guetta,Together,Together,colaboracion,2025,Dance,113
 220,Bonnie Tyler,Holding Out for a Hero (Single Version),The Very Best of Bonnie Tyler,album,2009,Pop,132
 220,Bonnie Tyler,"Holding Out for a Hero (From ""Footloose"" Soundtrack)",Secret Dreams and Forbidden Fire,album,1986,Pop,132
 220,Bonnie Tyler,It's a Heartache,It's a Heartache,album,2026,Pop,132
@@ -285,11 +265,8 @@
 220,Bonnie Tyler,Total Eclipse of the Heart (Radio Version),The Very Best of Bonnie Tyler,album,2009,Pop,132
 220,Bonnie Tyler,It's a Heartache,Bonnie,album,2017,Pop,132
 220,Bonnie Tyler,Total Eclipse Of The Heart (Re-Recorded),Total Eclipse of the Heart,single,2011,Pop,132
-542,David Guetta,Together (Extended),Together,colaboracion,2025,Dance,113
-2065,Bonnie 'Prince' Billy,Hear The Children Sing,Hear The Children Sing The Evidence,colaboracion,2024,Clásica,98
 220,Bonnie Tyler,Fools Lullaby,Angel Heart,album,1992,Pop,132
 220,Bonnie Tyler,Against the Wind (Radio Mix),Greatest Hits,album,2002,Pop,132
-990,Mike Oldfield,Islands,Two Sides: The Very Best Of Mike Oldfield,colaboracion,2012,Rock,152
 220,Bonnie Tyler,Everybody Hurts,Heart Strings,album,2002,Pop,132
 220,Bonnie Tyler,Lost In France,It's a Heartache,album,2026,Pop,132
 220,Bonnie Tyler,Holding Out for a Hero (Club Mix),Club Epic - A Collection Of Classic Dance Mixes: Volume 4,album,1996,Dance,113
@@ -299,7 +276,6 @@
 220,Bonnie Tyler,I Put a Spell on You,Playlist: The Best Of The EastWest Years,album,2016,Pop,132
 220,Bonnie Tyler,God Gave Love to You (Extended Version),Angel Heart,album,1992,Pop,132
 220,Bonnie Tyler,Believe in Me,Rocks and Honey,album,2020,Pop,132
-1617106,Bandits (Motion Picture Soundtrack),Holding Out For A Hero,Bandits (Motion Picture Soundtrack),colaboracion,2001,Rock,152
 220,Bonnie Tyler,A Whiter Shade of Pale,Goodbye to the Island (Expanded Edition),album,2026,Pop,132
 220,Bonnie Tyler,One World One Home,One World One Home,single,2026,Pop,132
 744,Nina Simone,I Put A Spell On You,I Put A Spell On You,album,2018,Jazz,129
@@ -353,7 +329,6 @@
 744,Nina Simone,Liberian Calypso,Fodder On My Wings,album,2020,Jazz,129
 744,Nina Simone,"To Be Young, Gifted and Black (Single Version)",New World Coming,album,2020,Jazz,129
 10606,Mercedes Sosa,"Soy Pan, Soy Paz, Soy Más (En Directo)",Voz Y Sentimiento,album,2025,Folk,466
-155887202,Milo j,Jangadero,La Vida Era Más Corta,colaboracion,2025,Alternativo,85
 10606,Mercedes Sosa,Razón de Vivir (with Lila Downs),Mercedes Sosa Cantora Éxitos,colaboracion,2021,Pop,132
 10606,Mercedes Sosa,Sólo Le Pido A Dios (Live),30 años,album,2020,Latino,197
 10606,Mercedes Sosa,Todo Cambia,30 años,album,2020,Latino,197
@@ -370,14 +345,12 @@
 10606,Mercedes Sosa,Canción para un Niño en la Calle (with René Pérez),Mercedes Sosa Cantora Éxitos,colaboracion,2021,Pop,132
 10606,Mercedes Sosa,Como La Cigarra (En Directo),30 años,album,2020,Latino,197
 10606,Mercedes Sosa,Sea (with Jorge Drexler),Cantora,colaboracion,2009,,-1
-4720,Milton Nascimento,Volver A Los 17,Geraes,colaboracion,2018,Música Brasileña,75
 10606,Mercedes Sosa,Años (En Directo),30 años,album,2020,Latino,197
 10606,Mercedes Sosa,Violetas para Violeta (with Joaquín Sabina),Mercedes Sosa Cantora Éxitos,colaboracion,2021,Pop,132
 10606,Mercedes Sosa,La Maza,30 años,album,2020,Latino,197
 10606,Mercedes Sosa,Canción De Las Simples Cosas,A Quién Doy,album,2022,,-1
 10606,Mercedes Sosa,Todavía Cantamos,¿Será Posible El Sur?,album,2020,Latino,197
 10606,Mercedes Sosa,Como La Cigarra,Censurada. Edición Definitiva: Y Seguí Cantando,album,2011,,-1
-670,Francis Cabrel,Vengo a Ofrecer Mi Corazón,L'essentiel 1977-2017,colaboracion,2017,,-1
 10606,Mercedes Sosa,Zona de Promesas (with Gustavo Cerati),Zona de Promesas (with Gustavo Cerati),colaboracion,2009,Pop,132
 10606,Mercedes Sosa,Sólo Le Pido A Dios (Live In Argentina / 1984),Corazón Americano,colaboracion,2011,,-1
 10606,Mercedes Sosa,Zamba para Olvidarte (with Diego Torres),Cantora,colaboracion,2009,,-1
@@ -385,7 +358,6 @@
 10606,Mercedes Sosa,Celador De Sueños (with Gustavo Santaolalla & Orozco - Barrientos),Cantora,colaboracion,2009,,-1
 10606,Mercedes Sosa,Zamba De Los Adioses (with Dúo Nuevo Cuyo),Cantora,colaboracion,2009,,-1
 10606,Mercedes Sosa,Volver A Los 17 (En Directo),Mercedes Sosa En Argentina (En Directo),album,2019,Latino,197
-361665,Victor Heredia,Yo Vengo a Ofrecer Mi Corazón (En Vivo),"En Vivo, Vol. 2",colaboracion,2026,Pop,132
 10606,Mercedes Sosa,Novicia (with Victor Heredia),Cantora,colaboracion,2009,,-1
 10606,Mercedes Sosa,Del Tiempo De Mi Niñez,Al Despertar,album,1999,Latino,197
 10606,Mercedes Sosa,Gracias A La Vida (En Directo),Mercedes Sosa En Argentina (En Directo),album,2019,Latino,197
@@ -402,53 +374,3 @@
 10606,Mercedes Sosa,Aquellas Pequeñas Cosas (with Joan Manuel Serrat),Mercedes Sosa Cantora Éxitos,colaboracion,2021,Pop,132
 10606,Mercedes Sosa,Ramírez: Kyrie (Vidala-Baguala),Ariel Ramirez: Misa Criolla / Navidad Nuestra,album,2000,Clásica,98
 10606,Mercedes Sosa,Jamás Te Olvidaré (with Marcela Morelo),Los 20 de Morelo,colaboracion,2017,Pop,132
-75284,Rocio Durcal,La Gata Bajo la Lluvia,Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Y Nos Dieron las Diez,Duetos,colaboracion,2016,Pop,132
-75284,Rocio Durcal,Hoy Lo Vi Pasar,Para Toda La Vida,album,1999,Pop,132
-75284,Rocio Durcal,Cómo Han Pasado los Años,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Como Tu Mujer,Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Me Gustas Mucho,Sus 16 Grandes Exitos,album,1983,Latino,197
-75284,Rocio Durcal,Déjame Vivir (with Juan Gabriel),Duetos,album,2016,Pop,132
-75284,Rocio Durcal,Me Nace del Corazón,Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Amor Eterno,Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Asi Son los Hombres,Juntos Otra Vez (with Juan Gabriel),album,1997,Pop,132
-75284,Rocio Durcal,Costumbres,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Infiel,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,La Guirnalda,Lo Mejor De Lo Mejor,album,1998,Latino,197
-75284,Rocio Durcal,Sombras Nada Más (with Javier Solís),Rocio Durcal - Duetos,colaboracion,2009,Pop,132
-75284,Rocio Durcal,Ya Te Olvidé,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Que Tengas Suerte (Remastered),Lo Mejor De (Remastered),album,2018,Rock,152
-75284,Rocio Durcal,Fue un Placer Conocerte,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Jamás Me Cansaré de Ti,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Fallaste Corazon,Alma Ranchera,album,2004,,-1
-75284,Rocio Durcal,Acompáñame,Rocío Dúrcal - Sus éxitos de los 60 Vol. 1,album,2021,Pop,132
-75284,Rocio Durcal,Fue Tan Poco Tu Cariño,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Vestida de Blanco,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Tango rociero,Grandes divas de la canción española,album,2014,,-1
-75284,Rocio Durcal,Más Bonita Que Ninguna (Remastered),Lo Mejor De (Remastered),album,2018,Rock,152
-75284,Rocio Durcal,Si Nos Dejan (En Vivo),Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Échame a Mí la Culpa,Rocio Durcal La Española Mas Mexicana Y Su Alma Ranchera,album,2006,Ranchera,512
-75284,Rocio Durcal,El Destino (with Juan Gabriel),La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,"Tilín, Tilín (Mi Cascabelito)","Rocío Durcal, Bonitos Temas",album,2012,Pop,132
-75284,Rocio Durcal,Nadie Es Como Tú,Sus 16 Grandes Exitos,album,1983,Latino,197
-75284,Rocio Durcal,Diferentes,Frente A Frente Vol.2 (with Juan Gabriel),album,2018,Latino,197
-75284,Rocio Durcal,"Perdóname, Olvídalo (with Juan Gabriel)",Duetos,album,2016,Pop,132
-75284,Rocio Durcal,El Amor Más Bonito,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,No Lastimes Más,Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Fue un Placer Conocerte (with Juan Gabriel) En Vivo,El Concierto ... En Vivo,colaboracion,1992,Bolero,524
-75284,Rocio Durcal,Tú Que Fuiste,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Te Voy a Olvidar,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,La Muerte del Palomo,La Absoluta Colección,album,2014,Ranchera,512
-788737,Carlos Rivera,Amor Eterno,Leyendas (Edición de Lujo),colaboracion,2022,Pop,132
-75284,Rocio Durcal,Te Amo,La Absoluta Colección,album,2014,Ranchera,512
-75284,Rocio Durcal,Te Recuerdo Dulcemente,Rocio Durcal Canta A Juan Gabriel,album,1977,Bolero,524
-75284,Rocio Durcal,Cómo Han Pasado los Años (with Leonel García),Duetos,album,2016,Pop,132
-75284,Rocio Durcal,Luz de Luna (with Manolo Garcia),Una Estrella En El Cielo,colaboracion,2010,Pop,132
-75284,Rocio Durcal,Te He Escrito Otra Cancion (with Juan Gabriel),Juntos Otra Vez (with Juan Gabriel),colaboracion,1997,Pop,132
-75284,Rocio Durcal,Como Han Pasado los Años (with Julio Iglesias),Una Estrella En El Cielo,colaboracion,2010,Pop,132
-75284,Rocio Durcal,Jamás Te Dejaré,Amor Eterno,album,2006,Latino,197
-75284,Rocio Durcal,Frente a Frente Remasterizado,"Frente a Frente, Vol. 1 (with Juan Gabriel)",album,1984,Bolero,524
-75284,Rocio Durcal,Porque Te Quiero,Caricias,album,1997,Pop,132
-75284,Rocio Durcal,Trébole (Remastered),Lo Mejor De (Remastered),album,2018,Rock,152
-75284,Rocio Durcal,Solo Tuya,Lo Romantico De Juan Gabriel,album,1989,Latino,197
-75284,Rocio Durcal,Nostalgias,Entre Tangos Y Mariachi,album,2001,Pop,132
