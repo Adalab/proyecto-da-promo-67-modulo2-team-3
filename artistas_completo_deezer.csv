@@ -1,0 +1,501 @@
+Unnamed: 0,id_artista,nombre_artista,titulo_cancion,titulo_album,tipo,año_lanzamiento,genero,id_genero
+0,75798,Adele,Easy On Me,Easy On Me,single,2021,Pop,132.0
+1,75798,Adele,Rolling in the Deep,21,album,2011,Pop,132.0
+2,75798,Adele,Skyfall,Skyfall,single,2012,Alternativo,85.0
+3,75798,Adele,Hello,25,album,2015,Pop,132.0
+4,75798,Adele,Set Fire to the Rain,21,album,2011,Pop,132.0
+5,75798,Adele,When We Were Young,25,album,2015,Pop,132.0
+6,75798,Adele,Oh My God,30,album,2021,Pop,132.0
+7,75798,Adele,I Drink Wine,30,album,2021,Pop,132.0
+8,75798,Adele,Love In The Dark,25,album,2015,Pop,132.0
+9,75798,Adele,Chasing Pavements,19,album,2008,Pop,132.0
+10,75798,Adele,Turning Tables,21,album,2011,Pop,132.0
+11,75798,Adele,Rumour Has It,21,album,2011,Pop,132.0
+12,75798,Adele,Don't You Remember,21,album,2011,Pop,132.0
+13,75798,Adele,Hometown Glory,19,album,2008,Pop,132.0
+14,75798,Adele,I'll Be Waiting,21,album,2011,Pop,132.0
+15,75798,Adele,Send My Love (To Your New Lover),25,album,2015,Pop,132.0
+16,75798,Adele,Can I Get It,30,album,2021,Pop,132.0
+17,75798,Adele,Lovesong,21,album,2011,Pop,132.0
+18,75798,Adele,He Won't Go,21,album,2011,Pop,132.0
+19,75798,Adele,Take It All,21,album,2011,Pop,132.0
+20,75798,Adele,One And Only,21,album,2011,Pop,132.0
+21,75798,Adele,All I Ask,25,album,2015,Pop,132.0
+22,75798,Adele,Remedy,25,album,2015,Pop,132.0
+23,75798,Adele,Melt My Heart to Stone,19,album,2008,Pop,132.0
+24,75798,Adele,Water Under the Bridge,25,album,2015,Pop,132.0
+25,75798,Adele,River Lea,25,album,2015,Pop,132.0
+26,75798,Adele,Hometown Glory,Hometown Glory,single,2008,Pop,132.0
+27,75798,Adele,Million Years Ago,25,album,2015,Pop,132.0
+28,75798,Adele,My Little Love,30,album,2021,Pop,132.0
+29,75798,Adele,I Miss You,25,album,2015,Pop,132.0
+30,75798,Adele,Hold On,30,album,2021,Pop,132.0
+31,75798,Adele,To Be Loved,30,album,2021,Pop,132.0
+32,75798,Adele,Sweetest Devotion,25,album,2015,Pop,132.0
+33,75798,Adele,Daydreamer,19,album,2008,Pop,132.0
+34,75798,Adele,Right As Rain,19,album,2008,Pop,132.0
+35,75798,Adele,All Night Parking (with Erroll Garner) Interlude,30,album,2021,Pop,132.0
+36,75798,Adele,Chasing Pavements (Live at Hotel Cafe),19,album,2008,Pop,132.0
+37,75798,Adele,Cry Your Heart Out,30,album,2021,Pop,132.0
+38,75798,Adele,Strangers By Nature,30,album,2021,Pop,132.0
+39,75798,Adele,Crazy For You,19,album,2008,Pop,132.0
+40,75798,Adele,Cold Shoulder (Basement Jaxx DUBB),Cold Shoulder,colaboracion,2008,Pop,132.0
+41,75798,Adele,Right As Rain (Live at Hotel Cafe),19,album,2008,Pop,132.0
+42,75798,Adele,Hometown Glory (High Contrast Remix),Hometown Glory,colaboracion,2008,Pop,132.0
+43,75798,Adele,Make You Feel My Love (Live at Hotel Cafe),19,album,2008,Pop,132.0
+44,75798,Adele,Tired,19,album,2008,Pop,132.0
+45,75798,Adele,Set Fire to the Rain (Moto Blanco Edit),Set Fire to the Rain (Remixes),colaboracion,2011,Pop,132.0
+46,75798,Adele,Love Is A Game,30,album,2021,Pop,132.0
+47,75798,Adele,My Same (Live at Hotel Cafe),19,album,2008,Pop,132.0
+48,75798,Adele,Rolling in the Deep (Jamie xx Shuffle),Rolling in the Deep (Jamie xx Shuffle),colaboracion,2011,Pop,132.0
+49,75798,Adele,First Love,19,album,2008,Pop,132.0
+0,11928391,Aitana,SUPERESTRELLA,CUARTO AZUL,album,2025,Pop,132.0
+1,11928391,Aitana,6 DE FEBRERO,6 DE FEBRERO,single,2025,Pop,132.0
+2,6705223,Quevedo,GRAN VÍA,BUENAS NOCHES,colaboracion,2024,Reggaeton,122.0
+3,11928391,Aitana,CONEXIÓN PSÍQUICA,CUARTO AZUL,album,2025,Pop,132.0
+4,11928391,Aitana,DUELE UN MONTÓN DESPEDIRME DE TI,CUARTO AZUL,colaboracion,2025,Pop,132.0
+5,11928391,Aitana,CUANDO HABLES CON ÉL,CUARTO AZUL,album,2025,Pop,132.0
+6,11928391,Aitana,LAS BABYS,LAS BABYS,single,2023,Pop,132.0
+7,11928391,Aitana,SEGUNDO INTENTO,CUARTO AZUL,album,2025,Pop,132.0
+8,8368238,Sangiovanni,mariposas,mariposas,colaboracion,2022,Pop,132.0
+9,117761432,zzoilo,Mon Amour (Remix),Mon Amour (Remix),colaboracion,2021,Pop,132.0
+10,11928391,Aitana,Quieres,Quieres,colaboracion,2022,Pop,132.0
+11,11928391,Aitana,LA CHICA PERFECTA,CUARTO AZUL,colaboracion,2025,Pop,132.0
+12,11928391,Aitana,Formentera,Formentera,colaboracion,2021,Pop,132.0
+13,11928391,Aitana,Los Ángeles,Los Ángeles,single,2023,Pop,132.0
+14,11928391,Aitana,AQYNE,alpha,colaboracion,2023,Pop,132.0
+15,11928391,Aitana,Vas A Quedarte,Tráiler,ep,2018,Pop,132.0
+16,11928391,Aitana,+,+,colaboracion,2019,Pop,132.0
+17,11928391,Aitana,CUARTO AZUL,CUARTO AZUL,album,2025,Pop,132.0
+18,11928391,Aitana,TRANKIS,CUARTO AZUL,colaboracion,2025,Pop,132.0
+19,11928391,Aitana,LIA,CUARTO AZUL,album,2025,Pop,132.0
+20,11928391,Aitana,Akureyri,Akureyri,colaboracion,2024,Pop,132.0
+21,11928391,Aitana,miamor,miamor,colaboracion,2023,Pop,132.0
+22,7327640,Morat,Presiento,Presiento,colaboracion,2019,Pop,132.0
+23,11928391,Aitana,¿PARA QUÉ VOLVER?,CUARTO AZUL,colaboracion,2025,Pop,132.0
+24,11928391,Aitana,EX EX EX,CUARTO AZUL,colaboracion,2025,Pop,132.0
+25,11928391,Aitana,SENTIMIENTO NATURAL,CUARTO AZUL,colaboracion,2025,Pop,132.0
+26,4990,David Bisbal,Si Tú La Quieres,Si Tú La Quieres,colaboracion,2020,Pop,132.0
+27,11928391,Aitana,4TO 23,4TO 23,single,2024,Pop,132.0
+28,11928391,Aitana,Lo Malo,Lo Malo,colaboracion,2018,Rap/Hip Hop,116.0
+29,11928391,Aitana,DESDE QUE YA NO HABLAMOS,CUARTO AZUL,album,2025,Pop,132.0
+30,11928391,Aitana,Más De Lo Que Aposté,Más De Lo Que Aposté,colaboracion,2020,Pop,132.0
+31,11928391,Aitana,TELÉFONO,TELÉFONO,single,2018,Pop,132.0
+32,11928391,Aitana,Berlín,Berlín,single,2021,Pop,132.0
+33,11928391,Aitana,EN EL CENTRO DE LA CAMA,CUARTO AZUL,album,2025,Pop,132.0
+34,1097709,Sam Smith,Like I Can,Like I Can,colaboracion,2024,Pop,132.0
+35,11928391,Aitana,Con La Miel En Los Labios,Con La Miel En Los Labios,single,2019,Pop,132.0
+36,11928391,Aitana,11 RAZONES,11 RAZONES,album,2020,Pop,132.0
+37,11928391,Aitana,HOY ES TU CUMPLEAÑOS,CUARTO AZUL,colaboracion,2025,Pop,132.0
+38,11928391,Aitana,Me Quedo,Spoiler,colaboracion,2019,Pop,132.0
+39,11928391,Aitana,CUANDO TE FUISTE,11 RAZONES,colaboracion,2020,Pop,132.0
+40,11928391,Aitana,DE 1 BESO A 2 BESOS,CUARTO AZUL,album,2025,Pop,132.0
+41,49489942,Fresquito,Mándame Un Audio (Remix),Mándame Un Audio (Remix),colaboracion,2021,Pop,132.0
+42,14200351,Marmi,Tu Foto Del DNI,Y si fuera POP,colaboracion,2023,Pop,132.0
+43,14200351,Marmi,Tu Foto Del DNI,Tu Foto Del DNI,colaboracion,2020,Pop,132.0
+44,11928391,Aitana,SI NO VAS A VOLVER,11 RAZONES,album,2020,Pop,132.0
+45,11928391,Aitana,NO TE HAS IDO Y YA TE EXTRAÑO,11 RAZONES,album,2020,Pop,132.0
+46,11928391,Aitana,24 Rosas,alpha,album,2023,Pop,132.0
+47,7457468,Sen Senra,Hermosa Casualidad,Hermosa Casualidad,colaboracion,2024,Pop,132.0
+48,712271,Pablo Alboran,Llueve sobre mojado,Llueve sobre mojado,colaboracion,2021,Pop,132.0
+49,11928391,Aitana,Corazón Sin Vida,Corazón Sin Vida,colaboracion,2020,Pop,132.0
+0,145,Beyoncé,Crazy In Love (feat. JAY-Z),Dangerously In Love,colaboracion,2003,Pop,132.0
+1,145,Beyoncé,CUFF IT,RENAISSANCE,album,2022,Pop,132.0
+2,145,Beyoncé,Halo,I AM...SASHA FIERCE,album,2008,Rap/Hip Hop,116.0
+3,145,Beyoncé,TEXAS HOLD 'EM,TEXAS HOLD 'EM,single,2024,Pop,132.0
+4,145,Beyoncé,Drunk in Love (feat. JAY-Z),BEYONCÉ,colaboracion,2013,Pop,132.0
+5,145,Beyoncé,If I Were a Boy,If I Were A Boy,single,2008,Pop,132.0
+6,145,Beyoncé,Run the World (Girls),Run The World (Girls),single,2011,Pop,132.0
+7,145,Beyoncé,Beautiful Liar,B'Day Deluxe Edition,colaboracion,2007,Pop,132.0
+8,145,Beyoncé,LEVII'S JEANS,COWBOY CARTER,colaboracion,2024,Pop,132.0
+9,145,Beyoncé,Single Ladies (Put a Ring on It),I AM...SASHA FIERCE,album,2008,Pop,132.0
+10,145,Beyoncé,Haunted,BEYONCÉ [Platinum Edition],album,2014,Pop,132.0
+11,145,Beyoncé,II MOST WANTED,COWBOY CARTER,colaboracion,2024,Pop,132.0
+12,145,Beyoncé,Irreplaceable,B'Day Deluxe Edition,album,2007,R&B,165.0
+13,145,Beyoncé,Baby Boy (feat. Sean Paul),Dangerously In Love,colaboracion,2003,Pop,132.0
+14,145,Beyoncé,Crazy In Love (Remix),Crazy In Love (Remix),single,2015,Pop,132.0
+15,145,Beyoncé,BREAK MY SOUL,RENAISSANCE,album,2022,Pop,132.0
+16,145,Beyoncé,COZY,RENAISSANCE,album,2022,Pop,132.0
+17,145,Beyoncé,All Night,Lemonade,album,2016,Pop,132.0
+18,145,Beyoncé,BLACKBIIRD,COWBOY CARTER,colaboracion,2024,Pop,132.0
+19,145,Beyoncé,TYRANT,COWBOY CARTER,colaboracion,2024,Pop,132.0
+20,145,Beyoncé,Deja Vu (feat. JAY-Z) (Album Version),B'Day,colaboracion,2006,Pop,132.0
+21,145,Beyoncé,ALIEN SUPERSTAR,RENAISSANCE,album,2022,Pop,132.0
+22,145,Beyoncé,I'M THAT GIRL,RENAISSANCE,album,2022,Pop,132.0
+23,145,Beyoncé,Broken-Hearted Girl,I AM...SASHA FIERCE,album,2014,Pop,132.0
+24,145,Beyoncé,BODYGUARD,COWBOY CARTER,album,2024,Pop,132.0
+25,145,Beyoncé,Partition,BEYONCÉ [Platinum Edition],album,2014,Pop,132.0
+26,145,Beyoncé,Diva,I AM...SASHA FIERCE,album,2008,Pop,132.0
+27,145,Beyoncé,Party (feat. André 3000),4,colaboracion,2013,Pop,132.0
+28,145,Beyoncé,"Me, Myself and I",Dangerously In Love,album,2003,Pop,132.0
+29,145,Beyoncé,Sweet Dreams,I AM...SASHA FIERCE,album,2008,Pop,132.0
+30,145,Beyoncé,BREAK MY SOUL (THE QUEENS REMIX),BREAK MY SOUL (THE QUEENS REMIX),colaboracion,2022,Pop,132.0
+31,145,Beyoncé,16 CARRIAGES,COWBOY CARTER,album,2024,Pop,132.0
+32,145,Beyoncé,Hold Up,Lemonade,album,2016,Pop,132.0
+33,145,Beyoncé,Video Phone (feat. Lady Gaga) (Extended Remix featuring Lady Gaga),Video Phone,colaboracion,2009,Pop,132.0
+34,145,Beyoncé,ENERGY (feat. Beam),RENAISSANCE,colaboracion,2022,Pop,132.0
+35,145,Beyoncé,Love Drought,Lemonade,album,2016,Pop,132.0
+36,145,Beyoncé,Love On Top,4,album,2013,Pop,132.0
+37,145,Beyoncé,Drunk in Love Remix (feat. JAY-Z & Kanye West),BEYONCÉ [Platinum Edition],colaboracion,2014,Pop,132.0
+38,145,Beyoncé,Naughty Girl,Dangerously In Love,album,2003,Pop,132.0
+39,7072729,Blue Ivy,BROWN SKIN GIRL,The Lion King: The Gift,colaboracion,2019,Rap/Hip Hop,116.0
+40,145,Beyoncé,XO,BEYONCÉ [Platinum Edition],album,2014,Pop,132.0
+41,145,Beyoncé,PURE/HONEY,RENAISSANCE,album,2022,Pop,132.0
+42,145,Beyoncé,7/11,BEYONCÉ [Platinum Edition],album,2014,Pop,132.0
+43,145,Beyoncé,Best Thing I Never Had,4,album,2013,Pop,132.0
+44,145,Beyoncé,Freakum Dress (Album Version),B'Day Deluxe Edition,album,2007,R&B,165.0
+45,145,Beyoncé,Daddy Lessons,Lemonade,album,2016,Pop,132.0
+46,145,Beyoncé,VIRGO'S GROOVE,RENAISSANCE,album,2022,Pop,132.0
+47,145,Beyoncé,Dangerously In Love,Dangerously In Love,album,2003,Pop,132.0
+48,145,Beyoncé,HEATED,RENAISSANCE,album,2022,Pop,132.0
+49,145,Beyoncé,Countdown,4,album,2013,Pop,132.0
+0,9635624,Billie Eilish,BIRDS OF A FEATHER,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+1,9635624,Billie Eilish,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+2,9635624,Billie Eilish,WILDFLOWER,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+3,9635624,Billie Eilish,CHIHIRO,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+4,9635624,Billie Eilish,LUNCH,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+5,9635624,Billie Eilish,Happier Than Ever,Happier Than Ever,album,2021,Alternativo,85.0
+6,1462230,Charli xcx,Guess featuring billie eilish,Guess featuring billie eilish,colaboracion,2024,Dance,113.0
+7,9635624,Billie Eilish,when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+8,9635624,Billie Eilish,THE GREATEST,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+9,9635624,Billie Eilish,everything i wanted,everything i wanted,single,2019,Alternativo,85.0
+10,9635624,Billie Eilish,SKINNY,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+11,9635624,Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]","What Was I Made For? [From The Motion Picture ""Barbie""]",single,2023,Alternativo,85.0
+12,9635624,Billie Eilish,i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+13,9635624,Billie Eilish,NDA,Happier Than Ever,album,2021,Alternativo,85.0
+14,9635624,Billie Eilish,Happier Than Ever (Edit),Happier Than Ever (Edit),single,2021,Alternativo,85.0
+15,9635624,Billie Eilish,BLUE,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+16,9635624,Billie Eilish,bury a friend,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+17,9635624,Billie Eilish,BITTERSUITE,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+18,9635624,Billie Eilish,The 30th,Guitar Songs,ep,2022,Alternativo,85.0
+19,9635624,Billie Eilish,watch,dont smile at me,ep,2017,Alternativo,85.0
+20,9635624,Billie Eilish,Lo Vas A Olvidar,Lo Vas A Olvidar,colaboracion,2021,Pop,132.0
+21,9635624,Billie Eilish,L’AMOUR DE MA VIE,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+22,9635624,Billie Eilish,Your Power,Happier Than Ever,album,2021,Alternativo,85.0
+23,9635624,Billie Eilish,L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT],L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT],single,2024,Alternativo,85.0
+24,9635624,Billie Eilish,TV,Guitar Songs,ep,2022,Alternativo,85.0
+25,9635624,Billie Eilish,you should see me in a crown,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+26,9635624,Billie Eilish,THE DINER,HIT ME HARD AND SOFT,album,2024,Alternativo,85.0
+27,9635624,Billie Eilish,ilomilo,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+28,9635624,Billie Eilish,Lost Cause,Happier Than Ever,album,2021,Alternativo,85.0
+29,9635624,Billie Eilish,idontwannabeyouanymore,dont smile at me,ep,2017,Alternativo,85.0
+30,9635624,Billie Eilish,my strange addiction,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+31,9635624,Billie Eilish,Male Fantasy,Happier Than Ever,album,2021,Alternativo,85.0
+32,9635624,Billie Eilish,Halley's Comet,Happier Than Ever,album,2021,Alternativo,85.0
+33,9635624,Billie Eilish,ocean eyes,Ocean Eyes,single,2016,Alternativo,85.0
+34,9635624,Billie Eilish,wish you were gay,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+35,9635624,Billie Eilish,Getting Older,Happier Than Ever,album,2021,Alternativo,85.0
+36,9635624,Billie Eilish,bellyache,Bellyache,single,2017,Alternativo,85.0
+37,9635624,Billie Eilish,xanny,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+38,9635624,Billie Eilish,all the good girls go to hell,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+39,9635624,Billie Eilish,Bored,13 Reasons Why (A Netflix Original Series Soundtrack),album,2017,Películas/Juegos,173.0
+40,9635624,Billie Eilish,OverHeated,Happier Than Ever,album,2021,Alternativo,85.0
+41,9635624,Billie Eilish,Therefore I Am,Happier Than Ever,album,2021,Alternativo,85.0
+42,9635624,Billie Eilish,Billie Bossa Nova,Happier Than Ever,album,2021,Alternativo,85.0
+43,9635624,Billie Eilish,bad guy (with Justin Bieber),bad guy (with Justin Bieber),colaboracion,2019,Alternativo,85.0
+44,9635624,Billie Eilish,hotline (edit),hotline (edit),single,2023,Alternativo,85.0
+45,9635624,Billie Eilish,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019,Alternativo,85.0
+46,9635624,Billie Eilish,COPYCAT,dont smile at me,ep,2017,Alternativo,85.0
+47,9635624,Billie Eilish,Everybody Dies,Happier Than Ever,album,2021,Alternativo,85.0
+48,9635624,Billie Eilish,I Didn't Change My Number,Happier Than Ever,album,2021,Alternativo,85.0
+49,9635624,Billie Eilish,my boy,dont smile at me,ep,2017,Alternativo,85.0
+0,8706544,Dua Lipa,Levitating,Future Nostalgia,album,2020,Pop,132.0
+1,8706544,Dua Lipa,Houdini,Houdini,single,2023,Pop,132.0
+2,8706544,Dua Lipa,Break My Heart,Break My Heart,single,2020,Pop,132.0
+3,12178,Calvin Harris,One Kiss,One Kiss,colaboracion,2018,Dance,113.0
+4,413,Elton John,Cold Heart (PNAU Remix),Cold Heart (PNAU Remix),colaboracion,2021,Pop,132.0
+5,8706544,Dua Lipa,Training Season,Training Season,single,2024,Pop,132.0
+6,8706544,Dua Lipa,Love Again,Future Nostalgia,album,2020,Pop,132.0
+7,8706544,Dua Lipa,New Rules,Dua Lipa (Deluxe),album,2017,Pop,132.0
+8,8706544,Dua Lipa,IDGAF,Dua Lipa (Deluxe),album,2017,Pop,132.0
+9,8706544,Dua Lipa,Dance The Night (From Barbie The Album),Dance The Night (From Barbie The Album),single,2023,Pop,132.0
+10,4860761,J Balvin,UN DIA (ONE DAY),UN DIA (ONE DAY),colaboracion,2020,Rap/Hip Hop,116.0
+11,8706544,Dua Lipa,Training Season (Acoustic Version),Training Season (Acoustic Version),single,2024,Pop,132.0
+12,8706544,Dua Lipa,Physical,Physical,single,2020,Pop,132.0
+13,14890083,Silk City,Electricity (feat. Diplo & Mark Ronson),Electricity (feat. Diplo & Mark Ronson),colaboracion,2018,Dance,113.0
+14,413,Elton John,Cold Heart (Acoustic),Cold Heart (Acoustic),colaboracion,2021,Pop,132.0
+15,8706544,Dua Lipa,New Rules (Acoustic),New Rules (Acoustic),single,2017,Pop,132.0
+16,8706544,Dua Lipa,Oye Mi Amor (feat. Fher de Maná) [Live From Mexico],Dua Lipa - Live From Mexico,colaboracion,2026,Pop,132.0
+17,8706544,Dua Lipa,These Walls (feat. Pierre de Maere),These Walls (feat. Pierre de Maere),colaboracion,2024,Pop,132.0
+18,8706544,Dua Lipa,Don't Start Now,Don't Start Now,single,2019,Pop,132.0
+19,8706544,Dua Lipa,Illusion,Illusion,single,2024,Pop,132.0
+20,3968561,Martin Garrix,Scared to Be Lonely,Scared to Be Lonely,colaboracion,2017,Electro,106.0
+21,8706544,Dua Lipa,End Of An Era,Radical Optimism,album,2024,Pop,132.0
+22,8706544,Dua Lipa,These Walls,Radical Optimism,album,2024,Pop,132.0
+23,8706544,Dua Lipa,Be the One,Be the One,single,2015,Pop,132.0
+24,12436,Miley Cyrus,Prisoner (feat. Dua Lipa),Plastic Hearts,colaboracion,2020,Pop,132.0
+25,8706544,Dua Lipa,Fever,Fever,colaboracion,2020,Dance,113.0
+26,8706544,Dua Lipa,Hallucinate,Future Nostalgia,album,2020,Pop,132.0
+27,8706544,Dua Lipa,Whatcha Doing,Radical Optimism,album,2024,Pop,132.0
+28,8706544,Dua Lipa,Levitating (feat. DaBaby),Levitating (feat. DaBaby),colaboracion,2020,Pop,132.0
+29,8706544,Dua Lipa,French Exit,Radical Optimism,album,2024,Pop,132.0
+30,8706544,Dua Lipa,Homesick,Dua Lipa (Deluxe),album,2017,Pop,132.0
+31,8706544,Dua Lipa,IDGAF (Acoustic),IDGAF,single,2018,Pop,132.0
+32,8706544,Dua Lipa,Pretty Please,Future Nostalgia (The Moonlight Edition),album,2020,Pop,132.0
+33,8706544,Dua Lipa,Maria,Radical Optimism,album,2024,Pop,132.0
+34,8706544,Dua Lipa,Hotter Than Hell,Dua Lipa (Deluxe),album,2017,Pop,132.0
+35,8706544,Dua Lipa,Cool,Future Nostalgia,album,2020,Pop,132.0
+36,8706544,Dua Lipa,Falling Forever,Radical Optimism,album,2024,Pop,132.0
+37,1228100,JENNIE,Handlebars,Ruby,colaboracion,2025,Música asiática,16.0
+38,8706544,Dua Lipa,Anything For Love,Radical Optimism,album,2024,Pop,132.0
+39,8706544,Dua Lipa,Training Season (Live From Mexico),Dua Lipa - Live From Mexico,album,2026,Pop,132.0
+40,8706544,Dua Lipa,Blow Your Mind (Mwah),Dua Lipa (Complete Edition),album,2018,Pop,132.0
+41,8706544,Dua Lipa,Happy For You,Radical Optimism,album,2024,Pop,132.0
+42,8706544,Dua Lipa,We're Good,We're Good,single,2021,Pop,132.0
+43,8706544,Dua Lipa,Anything For Love (Live from the Royal Albert Hall),Dua Lipa - Live from the Royal Albert Hall,album,2024,Pop,132.0
+44,12816021,Megan Thee Stallion,Sweetest Pie,Sweetest Pie,colaboracion,2022,Rap/Hip Hop,116.0
+45,8706544,Dua Lipa,Kiss and Make Up,Dua Lipa (Complete Edition),colaboracion,2018,Pop,132.0
+46,8706544,Dua Lipa,Future Nostalgia,Future Nostalgia,album,2020,Pop,132.0
+47,8706544,Dua Lipa,Boys Will Be Boys,Future Nostalgia (The Moonlight Edition),album,2020,Pop,132.0
+48,8706544,Dua Lipa,Training Season (Live from the Royal Albert Hall),Dua Lipa - Live from the Royal Albert Hall,album,2024,Pop,132.0
+49,413,Elton John,Cold Heart (Claptone Remix),Cold Heart (Claptone Remix),colaboracion,2021,Pop,132.0
+0,5297021,KAROL G,Si Antes Te Hubiera Conocido,Si Antes Te Hubiera Conocido,single,2024,Latino,197.0
+1,5297021,KAROL G,TQG,MAÑANA SERÁ BONITO,colaboracion,2023,Rap/Hip Hop,116.0
+2,5297021,KAROL G,Viajando Por El Mundo,Tropicoqueta,colaboracion,2025,Latino,197.0
+3,5297021,KAROL G,LATINA FOREVA,LATINA FOREVA,single,2025,Latino,197.0
+4,5297021,KAROL G,Papasito,Tropicoqueta,album,2025,Latino,197.0
+5,5297021,KAROL G,QLONA,MAÑANA SERÁ BONITO (BICHOTA SEASON),colaboracion,2023,Latino,197.0
+6,5297021,KAROL G,Tropicoqueta,Tropicoqueta,album,2025,Latino,197.0
+7,5297021,KAROL G,PROVENZA,PROVENZA,single,2022,Rap/Hip Hop,116.0
+8,5297021,KAROL G,Verano Rosa,Tropicoqueta,colaboracion,2025,Latino,197.0
+9,7961888,Anuel AA,China,China,colaboracion,2019,Reggaeton,122.0
+10,5297021,KAROL G,AMARGURA,MAÑANA SERÁ BONITO,album,2023,Rap/Hip Hop,116.0
+11,5297021,KAROL G,MIENTRAS ME CURO DEL CORA,MAÑANA SERÁ BONITO,album,2023,Rap/Hip Hop,116.0
+12,4937383,Ozuna,Caramelo (Remix),Caramelo (Remix),colaboracion,2020,Reggaeton,122.0
+13,5297021,KAROL G,Tusa,Tusa,colaboracion,2019,Rap/Hip Hop,116.0
+14,4698748,Becky G,MAMIII,MAMIII,colaboracion,2022,Pop,132.0
+15,5297021,KAROL G,Ivonny Bonita,Tropicoqueta,album,2025,Latino,197.0
+16,5297021,KAROL G,Después de ti,Después de ti,colaboracion,2026,Latino,197.0
+17,5297021,KAROL G,Amiga Mía,Tropicoqueta,colaboracion,2025,Latino,197.0
+18,5297021,KAROL G,+57,+57,colaboracion,2024,Latino,197.0
+19,5297021,KAROL G,PERO TÚ,MAÑANA SERÁ BONITO,colaboracion,2023,Rap/Hip Hop,116.0
+20,5297021,KAROL G,UNA NOCHE EN MEDELLÍN (REMIX),MAÑANA SERÁ BONITO (BICHOTA SEASON),colaboracion,2023,Latino,197.0
+21,5297021,KAROL G,EL BARCO,KG0516,album,2021,Rap/Hip Hop,116.0
+22,5297021,KAROL G,S91,S91,single,2023,Latino,197.0
+23,5297021,KAROL G,CAIRO,CAIRO,colaboracion,2022,Rap/Hip Hop,116.0
+24,5297021,KAROL G,EL MAKINON,KG0516,colaboracion,2021,Rap/Hip Hop,116.0
+25,5297021,KAROL G,X SI VOLVEMOS,X SI VOLVEMOS,colaboracion,2023,Rap/Hip Hop,116.0
+26,5297021,KAROL G,KÁRMIKA,MAÑANA SERÁ BONITO,colaboracion,2023,Rap/Hip Hop,116.0
+27,7961888,Anuel AA,Secreto,Secreto,colaboracion,2019,Rap/Hip Hop,116.0
+28,5297021,KAROL G,GATÚBELA,GATÚBELA,colaboracion,2022,Rap/Hip Hop,116.0
+29,434,Tiësto,Don't Be Shy,Don't Be Shy,colaboracion,2021,Dance,113.0
+30,5297021,KAROL G,Milagros,Milagros,single,2025,Latino,197.0
+31,5297021,KAROL G,Coleccionando Heridas,Tropicoqueta,colaboracion,2025,Latino,197.0
+32,1166311,Feid,FRIKI,FRIKI,colaboracion,2021,Rap/Hip Hop,116.0
+33,5297021,KAROL G,CONTIGO,CONTIGO,colaboracion,2024,Latino,197.0
+34,5297021,KAROL G,MI EX TENÍA RAZÓN,MAÑANA SERÁ BONITO (BICHOTA SEASON),album,2023,Latino,197.0
+35,5297021,KAROL G,Mi Cama (Remix),Mi Cama (Remix),colaboracion,2018,Rap/Hip Hop,116.0
+36,5297021,KAROL G,Dile Luna,Tropicoqueta,colaboracion,2025,Latino,197.0
+37,5297021,KAROL G,BICHOTA,BICHOTA,single,2020,Rap/Hip Hop,116.0
+38,6043160,Kali Uchis,Labios Mordidos,Labios Mordidos,colaboracion,2023,Latino,197.0
+39,4860761,J Balvin,Poblado (Remix),Poblado (Remix),colaboracion,2021,Rap/Hip Hop,116.0
+40,5297021,KAROL G,GATITA GANGSTER,MAÑANA SERÁ BONITO (BICHOTA SEASON),colaboracion,2023,Latino,197.0
+41,5297021,KAROL G,Ahora Me Llama,Ahora Me Llama,colaboracion,2017,Rap/Hip Hop,116.0
+42,5297021,KAROL G,Un Gatito Me Llamó,Tropicoqueta,album,2025,Latino,197.0
+43,5297021,KAROL G,Tu Perfume,Tropicoqueta,album,2025,Latino,197.0
+44,5297021,KAROL G,"Ay, DiOs Mío!","Ay, DiOs Mío!",single,2020,Rap/Hip Hop,116.0
+45,5297021,KAROL G,FKN Movie,Tropicoqueta,colaboracion,2025,Latino,197.0
+46,5297021,KAROL G,Cuando Me Muera Te Olvido,Tropicoqueta,album,2025,Latino,197.0
+47,4649104,Tainy,Única,Única,colaboracion,2025,Rap/Hip Hop,116.0
+48,5297021,KAROL G,MAÑANA SERÁ BONITO,MAÑANA SERÁ BONITO,colaboracion,2023,Rap/Hip Hop,116.0
+49,5297021,KAROL G,DISPO,MAÑANA SERÁ BONITO (BICHOTA SEASON),colaboracion,2023,Latino,197.0
+0,48765861,Lola Indigo,EL BACHATÓN DE LA L,EL BACHATÓN DE LA L,colaboracion,2026,Pop,132.0
+1,48765861,Lola Indigo,TUS INICIALES,TUS INICIALES,colaboracion,2026,Pop,132.0
+2,48765861,Lola Indigo,LA REINA,LA REINA,single,2024,Pop,132.0
+3,48765861,Lola Indigo,La Niña de la Escuela,La Niña,colaboracion,2021,Pop,132.0
+4,48765861,Lola Indigo,SIN AUTOTUNE,NAVE DRAGÓN,album,2025,Pop,132.0
+5,48765861,Lola Indigo,UNA BACHATA,GRX,colaboracion,2024,Pop,132.0
+6,48765861,Lola Indigo,LA REINA (REMIX),LA REINA (REMIX),colaboracion,2025,Pop,132.0
+7,48765861,Lola Indigo,EL TONTO,EL TONTO,colaboracion,2023,Rap/Hip Hop,116.0
+8,48765861,Lola Indigo,1000COSAS,1000COSAS,colaboracion,2024,Pop,132.0
+9,6397900,Omar Montes,EL PANTALON RUMBAS,LAGRIMAS DE UN MALEANTE,colaboracion,2024,Rap/Hip Hop,116.0
+10,48765861,Lola Indigo,MOJA1TA,MOJA1TA,single,2025,Pop,132.0
+11,10189104,Soolking,Casanova,Casanova,colaboracion,2023,Rap/Hip Hop,116.0
+12,48765861,Lola Indigo,CORAZONES ROTOS,CORAZONES ROTOS,colaboracion,2023,Rap/Hip Hop,116.0
+13,48765861,Lola Indigo,VERDE,VERDE,single,2025,Pop,132.0
+14,48765861,Lola Indigo,4 besos,4 besos,colaboracion,2020,Pop,132.0
+15,48765861,Lola Indigo,Mujer Bruja,Mujer Bruja,colaboracion,2018,Pop,132.0
+16,13971299,Luck Ra,POR EL EX NO SE LLORA,QUE SED,colaboracion,2025,Rap/Hip Hop,116.0
+17,11928391,Aitana,Me Quedo,Spoiler,colaboracion,2019,Pop,132.0
+18,14343187,Maria Becerra,High (Remix),High (Remix),colaboracion,2020,Latino,197.0
+19,48765861,Lola Indigo,DISCOTEKA,DISCOTEKA,colaboracion,2022,Rap/Hip Hop,116.0
+20,50030162,Kenia Os,Fifty Fifty,K de Karma,colaboracion,2026,Electro,106.0
+21,48765861,Lola Indigo,DE PLASTILINA,DE PLASTILINA,colaboracion,2023,Pop,132.0
+22,48765861,Lola Indigo,cómo te va?,cómo te va?,colaboracion,2020,Pop,132.0
+23,48765861,Lola Indigo,LA PRIMAVERA,GRX,colaboracion,2024,Pop,132.0
+24,81719632,Ptazeta,Tiki Tiki,Tiki Tiki,colaboracion,2023,Rap/Hip Hop,116.0
+25,48765861,Lola Indigo,MALA SUERTE,MALA SUERTE,colaboracion,2023,Pop,132.0
+26,48765861,Lola Indigo,Toy Story,Toy Story,single,2022,Rap/Hip Hop,116.0
+27,48765861,Lola Indigo,Santería,Santería,colaboracion,2020,Pop,132.0
+28,48765861,Lola Indigo,YO TENGO UN NOVIO,YO TENGO UN NOVIO,colaboracion,2023,Pop,132.0
+29,48765861,Lola Indigo,PERREITO PA LLORAR,PERREITO PA LLORAR,colaboracion,2024,Pop,132.0
+30,48765861,Lola Indigo,EL CONDENAO,EL CONDENAO,colaboracion,2023,Pop,132.0
+31,48765861,Lola Indigo,YO TE LLEVO,NAVE DRAGÓN,album,2025,Pop,132.0
+32,48765861,Lola Indigo,DRAGÓN,EL DRAGÓN,album,2023,Pop,132.0
+33,48765861,Lola Indigo,Lola Bunny,Lola Bunny,colaboracion,2019,Pop,132.0
+34,48765861,Lola Indigo,MI COLETA,NAVE DRAGÓN,album,2025,Pop,132.0
+35,48765861,Lola Indigo,Maldición,Maldición,colaboracion,2019,Pop,132.0
+36,2855621,Cali Y El Dandee,YO TE ESPERARÉ (Live),"LA BRUJA, LA NIÑA Y EL DRAGÓN",colaboracion,2026,Pop,132.0
+37,48765861,Lola Indigo,Ya No Quiero Ná,Ya No Quiero Ná,single,2018,Pop,132.0
+38,605032,Cupido,Autoestima (Remix),Autoestima (Remix),colaboracion,2019,Pop,132.0
+39,59466262,Luna Ki,Piketaison,CL34N,colaboracion,2022,Pop,132.0
+40,48765861,Lola Indigo,LA SANTA,LA SANTA,single,2023,Rap/Hip Hop,116.0
+41,48765861,Lola Indigo,"El Humo (Canción Original De La Película ""Lo Dejo Cuando Quiera"")","El Humo (Canción Original De La Película ""Lo Dejo Cuando Quiera"")",single,2019,Pop,132.0
+42,48765861,Lola Indigo,YA NO QUIERO NÁ (Live),"LA BRUJA, LA NIÑA Y EL DRAGÓN",album,2026,Pop,132.0
+43,48765861,Lola Indigo,Tamagochi,La Niña,album,2021,Pop,132.0
+44,48765861,Lola Indigo,MISSION005,NAVE DRAGÓN,album,2025,Pop,132.0
+45,48765861,Lola Indigo,AN1MAL,AN1MAL,single,2022,Rap/Hip Hop,116.0
+46,48765861,Lola Indigo,ABC (Live),"LA BRUJA, LA NIÑA Y EL DRAGÓN",album,2026,Pop,132.0
+47,50661282,Belén Aguilera,La Tirita,La Tirita,colaboracion,2020,Pop,132.0
+48,51495052,Emkal,✪ Ego (feat. GIMS & Lola Indigo),COSMOS,colaboracion,2024,Rap/Hip Hop,116.0
+49,9583838,Suzete,KOMBOLEWA (Remix),KOMBOLEWA (Remix),colaboracion,2024,Pop,132.0
+0,61094422,Emilia,JET_Set.mp3,.mp3,colaboracion,2023,Pop,132.0
+1,112,Marc Anthony,Como en el Idilio,Como en el Idilio,colaboracion,2026,Salsa,67.0
+2,5620251,C. Tangana,Ateo,Ateo,colaboracion,2021,Rap/Hip Hop,116.0
+3,12346612,Nathy Peluso,ELLA TIENE,ELLA TIENE,colaboracion,2023,Rap/Hip Hop,116.0
+4,12346612,Nathy Peluso,MALPORTADA,MALPORTADA,colaboracion,2025,Salsa,67.0
+5,12346612,Nathy Peluso,A CABALLO,MALPORTADA,album,2025,Salsa,67.0
+6,12346612,Nathy Peluso,EROTIKA,EROTIKA,single,2025,Salsa,67.0
+7,12346612,Nathy Peluso,DELITO,Calambre,album,2020,Rap/Hip Hop,116.0
+8,183852,Kany Garcia,Gatita,PUERTA ABIERTA,colaboracion,2026,Pop,132.0
+9,12346612,Nathy Peluso,MAFIOSA,MAFIOSA,single,2021,Rap/Hip Hop,116.0
+10,12487862,Bizarrap,"Nathy Peluso: Bzrp Music Sessions, Vol. 36/66","Nathy Peluso: Bzrp Music Sessions, Vol. 36/66",colaboracion,2020,Rap/Hip Hop,116.0
+11,12346612,Nathy Peluso,INSENSATA,MALPORTADA,album,2025,Salsa,67.0
+12,12346612,Nathy Peluso,QUE LLUEVAN FLORES,MALPORTADA,album,2025,Salsa,67.0
+13,12346612,Nathy Peluso,NO ES OTRA CANCIÓN ROMÁNTICA,MALPORTADA,album,2025,Salsa,67.0
+14,12346612,Nathy Peluso,SALVAJE,SALVAJE,single,2023,Rap/Hip Hop,116.0
+15,5284515,Mon Laferte,La Tirana,FEMME FATALE,colaboracion,2025,Alternativo,85.0
+16,12346612,Nathy Peluso,ÁNGEL - BCLIP CLUB VERSION,ÁNGEL - BCLIP CLUB VERSION,colaboracion,2026,Salsa,67.0
+17,12346612,Nathy Peluso,ÁNGEL,MALPORTADA,album,2025,Salsa,67.0
+18,12346612,Nathy Peluso,TODO ROTO,GRASA,colaboracion,2024,Rap/Hip Hop,116.0
+19,12346612,Nathy Peluso,SANA SANA,Calambre,album,2020,Rap/Hip Hop,116.0
+20,12346612,Nathy Peluso,BUSINESS WOMAN,Calambre,album,2020,Rap/Hip Hop,116.0
+21,12346612,Nathy Peluso,TRÍO,Calambre,album,2020,Rap/Hip Hop,116.0
+22,12346612,Nathy Peluso,Natikillah,Natikillah,single,2019,Rap/Hip Hop,116.0
+23,12346612,Nathy Peluso,VIVIR ASÍ ES MORIR DE AMOR,VIVIR ASÍ ES MORIR DE AMOR,single,2021,Rap/Hip Hop,116.0
+24,12346612,Nathy Peluso,LA PRESA,GRASA,album,2024,Rap/Hip Hop,116.0
+25,12346612,Nathy Peluso,PURO VENENO,Calambre,album,2020,Rap/Hip Hop,116.0
+26,12346612,Nathy Peluso,BUENOS AIRES,Calambre,album,2020,Rap/Hip Hop,116.0
+27,12346612,Nathy Peluso,AGARRATE,Calambre,album,2020,Rap/Hip Hop,116.0
+28,12346612,Nathy Peluso,CORLEONE,GRASA,album,2024,Rap/Hip Hop,116.0
+29,12346612,Nathy Peluso,MENINA,GRASA,colaboracion,2024,Rap/Hip Hop,116.0
+30,48947801,Tokischa,DE MARAVISHA,DE MARAVISHA,colaboracion,2024,Rap/Hip Hop,116.0
+31,12346612,Nathy Peluso,ENVIDIA,GRASA,album,2024,Rap/Hip Hop,116.0
+32,12346612,Nathy Peluso,"EMERGENCIA Presented by PlayStation, Horizon Forbidden West",EMERGENCIA,single,2022,Rap/Hip Hop,116.0
+33,12346612,Nathy Peluso,AMOR SALVAJE,Calambre,album,2020,Rap/Hip Hop,116.0
+34,10580067,Rels B,No Se Perdona,No Se Perdona,colaboracion,2020,Rap/Hip Hop,116.0
+35,12346612,Nathy Peluso,CELEBRÉ,Calambre,album,2020,Rap/Hip Hop,116.0
+36,11301722,Pabllo Vittar,Fantasía,Fantasía,colaboracion,2025,Reggaeton,122.0
+37,12346612,Nathy Peluso,LEGENDARIO,GRASA,album,2024,Rap/Hip Hop,116.0
+38,12346612,Nathy Peluso,REAL,GRASA,album,2024,Rap/Hip Hop,116.0
+39,12346612,Nathy Peluso,REMEDIO,GRASA,album,2024,Rap/Hip Hop,116.0
+40,12346612,Nathy Peluso,TODO ROTO - CRRDR REMIX,CLUB GRASA,colaboracion,2026,Electro,106.0
+41,12346612,Nathy Peluso,Corashe,Corashe,single,2017,Rap/Hip Hop,116.0
+42,12346612,Nathy Peluso,La Sandunguera,La Sandunguera,ep,2018,Latino,197.0
+43,12346612,Nathy Peluso,APRENDER A AMAR,GRASA,album,2024,Rap/Hip Hop,116.0
+44,12346612,Nathy Peluso,REAL - NUSAR3000 REMIX,CLUB GRASA,colaboracion,2026,Electro,106.0
+45,12346612,Nathy Peluso,Alabame,Esmeralda,album,2017,Rap/Hip Hop,116.0
+46,12346612,Nathy Peluso,SUGGA,Calambre,album,2020,Rap/Hip Hop,116.0
+47,12346612,Nathy Peluso,IDEAS RADICALES,GRASA,album,2024,Rap/Hip Hop,116.0
+48,12346612,Nathy Peluso,LLAMAME,Calambre,album,2020,Rap/Hip Hop,116.0
+49,12346612,Nathy Peluso,MANHATTAN,GRASA,colaboracion,2024,Rap/Hip Hop,116.0
+0,554792,ROSALÍA,La Perla,LUX,colaboracion,2025,Alternativo,85.0
+1,554792,ROSALÍA,Reliquia,LUX,album,2025,Alternativo,85.0
+2,10583405,Bad Bunny,LA NOCHE DE ANOCHE,EL ÚLTIMO TOUR DEL MUNDO,colaboracion,2020,Latino,197.0
+3,554792,ROSALÍA,BESO,RR,colaboracion,2023,Rap/Hip Hop,116.0
+4,554792,ROSALÍA,DESPECHÁ,DESPECHÁ,single,2022,Pop,132.0
+5,554792,ROSALÍA,La Rumba Del Perdón,LUX,colaboracion,2025,Alternativo,85.0
+6,554792,ROSALÍA,Dios Es Un Stalker,LUX,album,2025,Alternativo,85.0
+7,554792,ROSALÍA,"Sexo, Violencia y Llantas",LUX,album,2025,Alternativo,85.0
+8,554792,ROSALÍA,Berghain,LUX,colaboracion,2025,Alternativo,85.0
+9,554792,ROSALÍA,LA FAMA,MOTOMAMI,colaboracion,2022,Pop,132.0
+10,554792,ROSALÍA,Magnolias,LUX,album,2025,Alternativo,85.0
+11,554792,ROSALÍA,Divinize,LUX,album,2025,Alternativo,85.0
+12,554792,ROSALÍA,Focu 'Ranni,LUX (Complete Works),album,2026,Alternativo,85.0
+13,554792,ROSALÍA,Mio Cristo Piange Diamanti,LUX,album,2025,Alternativo,85.0
+14,554792,ROSALÍA,La Yugular,LUX,album,2025,Alternativo,85.0
+15,554792,ROSALÍA,Memória,LUX,colaboracion,2025,Alternativo,85.0
+16,554792,ROSALÍA,Sauvignon Blanc,LUX,album,2025,Alternativo,85.0
+17,554792,ROSALÍA,Porcelana,LUX,colaboracion,2025,Alternativo,85.0
+18,554792,ROSALÍA,Dios Es Un Stalker (versión Francotiradora),LUX (Complete Works),album,2026,Alternativo,85.0
+19,554792,ROSALÍA,De Madrugá,LUX,album,2025,Alternativo,85.0
+20,554792,ROSALÍA,"Yo x Ti, Tu x Mi","Yo x Ti, Tu x Mi",colaboracion,2019,Latino,197.0
+21,554792,ROSALÍA,Con Altura (feat. El Guincho),Con Altura (feat. El Guincho),colaboracion,2019,Pop,132.0
+22,554792,ROSALÍA,Novia Robot,LUX (Complete Works),album,2026,Alternativo,85.0
+23,554792,ROSALÍA,Mundo Nuevo,LUX,album,2025,Alternativo,85.0
+24,554792,ROSALÍA,VAMPIROS,RR,colaboracion,2023,Rap/Hip Hop,116.0
+25,554792,ROSALÍA,Jeanne,LUX (Complete Works),album,2026,Alternativo,85.0
+26,1272674,Romeo Santos,El Pañuelo,El Pañuelo,colaboracion,2022,Pop,132.0
+27,554792,ROSALÍA,CANDY,MOTOMAMI,album,2022,Pop,132.0
+28,75156,Wisin & Yandel,Besos Moja2,La Última Misión,colaboracion,2022,Rap/Hip Hop,116.0
+29,554792,ROSALÍA,SAOKO,MOTOMAMI,album,2022,Pop,132.0
+30,554792,ROSALÍA,TUYA,TUYA,single,2023,Pop,132.0
+31,554792,ROSALÍA,BAGDAD Cap.7: Liturgia,El Mal Querer,album,2018,Pop,132.0
+32,554792,ROSALÍA,PIENSO EN TU MIRÁ Cap.3: Celos,El Mal Querer,album,2018,Pop,132.0
+33,554792,ROSALÍA,LLYLM,LLYLM,single,2023,Pop,132.0
+34,554792,ROSALÍA,MALAMENTE Cap.1: Augurio,El Mal Querer,album,2018,Pop,132.0
+35,554792,ROSALÍA,BIZCOCHITO,MOTOMAMI,album,2022,Pop,132.0
+36,554792,ROSALÍA,Juro Que,Juro Que,single,2020,Pop,132.0
+37,48947801,Tokischa,Linda,Linda,colaboracion,2021,Rap/Hip Hop,116.0
+38,554792,ROSALÍA,COMO UN G,MOTOMAMI,album,2022,Pop,132.0
+39,4439729,Conrad Taylor,Berghain,Berghain (Remix),colaboracion,2026,Alternativo,85.0
+40,554792,ROSALÍA,LA COMBI VERSACE,MOTOMAMI,colaboracion,2022,Pop,132.0
+41,554792,ROSALÍA,Aunque Es De Noche,Aunque Es De Noche,single,2017,Flamenco,36.0
+42,554792,ROSALÍA,MOTOMAMI,MOTOMAMI,album,2022,Pop,132.0
+43,554792,ROSALÍA,Milionària,Fucking Money Man,single,2019,Pop,132.0
+44,554792,ROSALÍA,TKN,TKN,colaboracion,2020,Pop,132.0
+45,554792,ROSALÍA,DI MI NOMBRE Cap.8: Éxtasis,El Mal Querer,album,2018,Pop,132.0
+46,554792,ROSALÍA,A Palé,A Palé,single,2019,Pop,132.0
+47,9635624,Billie Eilish,Lo Vas A Olvidar,Lo Vas A Olvidar,colaboracion,2021,Pop,132.0
+48,554792,ROSALÍA,Catalina,Los Ángeles,album,2017,Pop,132.0
+49,554792,ROSALÍA,Omega (feat. Ralphie Choo),Omega (feat. Ralphie Choo),colaboracion,2024,Alternativo,85.0
+0,12246,Taylor Swift,The Fate of Ophelia,The Life of a Showgirl,album,2025,Pop,132.0
+1,12246,Taylor Swift,Opalite,The Life of a Showgirl,album,2025,Pop,132.0
+2,12246,Taylor Swift,Eldest Daughter,The Life of a Showgirl,album,2025,Pop,132.0
+3,12246,Taylor Swift,Shake It Off,1989 (Deluxe),album,2014,Pop,132.0
+4,12246,Taylor Swift,Anti-Hero,Midnights,album,2022,Pop,132.0
+5,12246,Taylor Swift,Elizabeth Taylor,The Life of a Showgirl,album,2025,Pop,132.0
+6,12246,Taylor Swift,Lavender Haze,Midnights,album,2022,Pop,132.0
+7,12246,Taylor Swift,Blank Space,1989 (Deluxe),album,2014,Pop,132.0
+8,12246,Taylor Swift,Wildest Dreams,1989 (Deluxe),album,2014,Pop,132.0
+9,12246,Taylor Swift,Style,1989 (Deluxe),album,2014,Pop,132.0
+10,12246,Taylor Swift,The Man,Lover,album,2019,Pop,132.0
+11,12246,Taylor Swift,Cruel Summer,Lover,album,2019,Pop,132.0
+12,12246,Taylor Swift,Love Story,Fearless (International Version),album,2009,Desconocido,
+13,12246,Taylor Swift,Don’t Blame Me,reputation,album,2017,Pop,132.0
+14,12246,Taylor Swift,Anti-Hero (Acoustic Version),Anti-Hero (Acoustic Version),single,2022,Pop,132.0
+15,9761322,ZAYN,I Don’t Wanna Live Forever (Fifty Shades Darker),reputation Stadium Tour Surprise Song Playlist,colaboracion,2018,Pop,132.0
+16,12246,Taylor Swift,cardigan,folklore,album,2020,Alternativo,85.0
+17,12246,Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),album,2021,Pop,132.0
+18,12246,Taylor Swift,this is me trying,folklore (deluxe version),album,2020,Alternativo,85.0
+19,12246,Taylor Swift,Love Story (Taylor’s Version),Fearless (Taylor's Version),album,2021,Desconocido,
+20,12246,Taylor Swift,Delicate,reputation,album,2017,Pop,132.0
+21,12246,Taylor Swift,Bad Blood,1989 (Deluxe),album,2014,Pop,132.0
+22,12246,Taylor Swift,Father Figure,The Life of a Showgirl,album,2025,Pop,132.0
+23,12246,Taylor Swift,I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024,Pop,132.0
+24,12246,Taylor Swift,Enchanted (Taylor's Version),Speak Now (Taylor's Version),album,2023,Desconocido,
+25,12246,Taylor Swift,Lover,Lover,album,2019,Pop,132.0
+26,12246,Taylor Swift,Daylight,Lover,album,2019,Pop,132.0
+27,12246,Taylor Swift,Paper Rings,Lover,album,2019,Pop,132.0
+28,12246,Taylor Swift,You Belong With Me (Taylor’s Version),Fearless (Taylor's Version),album,2021,Desconocido,
+29,12246,Taylor Swift,The Fate of Ophelia (Loud Luxury Remix),The Fate of Ophelia (Loud Luxury Remix),colaboracion,2025,Pop,132.0
+30,12246,Taylor Swift,Shake It Off (Taylor's Version),1989 (Taylor's Version),album,2023,Pop,132.0
+31,12246,Taylor Swift,Opalite (BUNT. Remix),Opalite (BUNT. Remix),colaboracion,2026,Pop,132.0
+32,12246,Taylor Swift,I Knew You Were Trouble (Taylor's Version),Red (Taylor's Version),album,2021,Pop,132.0
+33,12246,Taylor Swift,exile,folklore,colaboracion,2020,Alternativo,85.0
+34,12246,Taylor Swift,Look What You Made Me Do,reputation,album,2017,Pop,132.0
+35,12246,Taylor Swift,Actually Romantic,The Life of a Showgirl,album,2025,Pop,132.0
+36,12246,Taylor Swift,CANCELLED!,The Life of a Showgirl,album,2025,Pop,132.0
+37,12246,Taylor Swift,Out Of The Woods (Taylor's Version),1989 (Taylor's Version),album,2023,Pop,132.0
+38,12246,Taylor Swift,"You're On Your Own, Kid",Midnights,album,2022,Pop,132.0
+39,12246,Taylor Swift,Honey,The Life of a Showgirl,album,2025,Pop,132.0
+40,12246,Taylor Swift,I Knew You Were Trouble.,Red (Deluxe Edition),album,2013,Desconocido,
+41,12246,Taylor Swift,Fortnight,THE TORTURED POETS DEPARTMENT,colaboracion,2024,Pop,132.0
+42,12246,Taylor Swift,Bad Blood,Bad Blood,colaboracion,2015,Pop,132.0
+43,12246,Taylor Swift,The Fate of Ophelia (The Chainsmokers Remix),The Fate of Ophelia (The Chainsmokers Remix),colaboracion,2025,Pop,132.0
+44,12246,Taylor Swift,So High School,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024,Pop,132.0
+45,12246,Taylor Swift,End Game,reputation,colaboracion,2017,Pop,132.0
+46,12246,Taylor Swift,august,folklore (deluxe version),album,2020,Alternativo,85.0
+47,12246,Taylor Swift,loml,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024,Pop,132.0
+48,12246,Taylor Swift,willow,evermore (deluxe version),album,2021,Alternativo,85.0
+49,12246,Taylor Swift,Red (Taylor's Version),Red (Taylor's Version),album,2021,Pop,132.0
