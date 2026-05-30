@@ -1,0 +1,651 @@
+Unnamed: 0,id_artista,nombre_artista,titulo_cancion,titulo_album,tipo,año_lanzamiento,genero,id_genero
+0.0,554792,Björk,Berghain,LUX,colaboracion,2025,Alternativo,85
+1.0,4439729,Björk,Berghain,Berghain (Remix),colaboracion,2026,Alternativo,85
+2.0,630,Björk,Jóga,Homogenic,album,1997,Alternativo,85
+3.0,630,Björk,Army Of Me,Post,album,1995,Alternativo,85
+4.0,630,Björk,It's Oh So Quiet,Post,album,1995,Alternativo,85
+5.0,630,Björk,Human Behaviour,Debut,album,1993,Alternativo,85
+6.0,630,Björk,Play Dead,Greatest Hits,colaboracion,2002,Alternativo,85
+7.0,630,Björk,Hunter,Homogenic,album,1997,Alternativo,85
+8.0,630,Björk,All Is Full Of Love (Video Edit),All Is Full Of Love,single,1999,Alternativo,85
+9.0,630,Björk,Bachelorette,Greatest Hits,album,2002,Alternativo,85
+10.0,630,Björk,Jóga (Live),Homogenic (Live),album,2003,Alternativo,85
+11.0,630,Björk,Hyperballad,Family Tree,album,2002,Electro,106
+12.0,630,Björk,Frosti,Vespertine,album,2001,Alternativo,85
+13.0,630,Björk,Oral,Oral,colaboracion,2023,Pop,132
+14.0,630,Björk,Venus As A Boy,Debut,album,1993,Alternativo,85
+15.0,630,Björk,Unison,Vespertine,album,2001,Alternativo,85
+16.0,630,Björk,Hidden Place,Vespertine,album,2001,Alternativo,85
+17.0,630,Björk,Crystalline (Omar Souleyman Remix),Bastards,colaboracion,2012,Alternativo,85
+18.0,630,Björk,Atopos,Fossora,colaboracion,2022,Electro,106
+19.0,630,Björk,Unravel,Homogenic,album,1997,Alternativo,85
+20.0,630,Björk,Sorrowful Soil,Fossora,album,2022,Electro,106
+21.0,630,Björk,Pagan Poetry,Vespertine,album,2001,Alternativo,85
+22.0,630,Björk,Öll Birtan,Medúlla,album,2004,Alternativo,85
+23.0,630,Björk,I Miss You,Post,album,1995,Alternativo,85
+24.0,630,Björk,It's Not Up To You,Vespertine,album,2001,Alternativo,85
+25.0,630,Björk,Dull Flame Of Desire (Modeselektor Remix For Girls),Voltaic,album,2009,Alternativo,85
+26.0,630,Björk,Undo,Vespertine,album,2001,Alternativo,85
+27.0,630,Björk,Triumph Of A Heart,Medúlla,album,2004,Alternativo,85
+28.0,630,Björk,Enjoy,Post,album,1995,Alternativo,85
+29.0,630,Björk,Big Time Sensuality,Debut,album,1993,Alternativo,85
+30.0,630,Björk,Allow,Fossora,colaboracion,2022,Electro,106
+31.0,630,Björk,Harm Of Will,Vespertine,album,2001,Alternativo,85
+32.0,630,Björk,Like Someone In Love,Debut,album,1993,Alternativo,85
+33.0,630,Björk,The Dull Flame Of Desire,Volta,album,2007,Alternativo,85
+34.0,630,Björk,Ovule,Fossora,album,2022,Electro,106
+35.0,630,Björk,Pleasure Is All Mine,Medúlla,album,2004,Alternativo,85
+36.0,630,Björk,Declare Independence,Volta,album,2007,Alternativo,85
+37.0,630,Björk,Possibly Maybe,Post,album,1995,Alternativo,85
+38.0,630,Björk,Isobel,Post,album,1995,Alternativo,85
+39.0,630,Björk,Violently Happy,Debut,album,1993,Alternativo,85
+40.0,630,Björk,Crying,Debut,album,1993,Alternativo,85
+41.0,630,Björk,Vökuró,Medúlla,album,2004,Alternativo,85
+42.0,630,Björk,Cosmogony,Biophilia (Deluxe Edition),album,2011,Alternativo,85
+43.0,630,Björk,Ancestress,Fossora,colaboracion,2022,Electro,106
+44.0,16935,Björk,On and Ever Onward,Mount Wittenberg Orca (Expanded Edition),colaboracion,2023,Alternativo,85
+45.0,630,Björk,The Anchor Song,Debut,album,1993,Alternativo,85
+46.0,630,Björk,"Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",Medúlla,album,2004,Alternativo,85
+47.0,630,Björk,Oral (Olof Dreijer Remix),Oral (Olof Dreijer Remix),colaboracion,2024,Electro,106
+48.0,630,Björk,Overture,Selma Songs,album,2000,Alternativo,85
+49.0,630,Björk,Victimhood,Fossora,album,2022,Electro,106
+0.0,595,Destiny's Child,Say My Name,The Writing's On The Wall,album,1999,Pop,132
+1.0,595,Destiny's Child,"Bills, Bills, Bills",The Writing's On The Wall,album,1999,Pop,132
+2.0,595,Destiny's Child,Emotion,Survivor,album,2001,Pop,132
+3.0,595,Destiny's Child,Survivor,Survivor,album,2001,Pop,132
+4.0,595,Destiny's Child,"Independent Women, Pt. 1",Survivor,album,2001,Pop,132
+5.0,595,Destiny's Child,"Jumpin', Jumpin'",The Writing's On The Wall,album,1999,Pop,132
+6.0,595,Destiny's Child,Bootylicious,Survivor,album,2001,Pop,132
+7.0,595,Destiny's Child,Dangerously In Love,Survivor,album,2001,Pop,132
+8.0,595,Destiny's Child,Lose My Breath,Destiny Fulfilled,album,2004,Pop,132
+9.0,595,Destiny's Child,If,Destiny Fulfilled,album,2004,Pop,132
+10.0,595,Destiny's Child,Soldier (feat. T.I. & Lil' Wayne),Destiny Fulfilled,colaboracion,2004,Pop,132
+11.0,595,Destiny's Child,So Good,The Writing's On The Wall,album,1999,Pop,132
+12.0,595,Destiny's Child,Girl,Destiny Fulfilled,album,2004,Pop,132
+13.0,595,Destiny's Child,Say My Name (#1's Edit),#1's,album,2003,Pop,132
+14.0,595,Destiny's Child,Bug A Boo (#1's Edit),#1's,album,2003,Pop,132
+15.0,595,Destiny's Child,She Can't Love You,The Writing's On The Wall,album,1999,Pop,132
+16.0,595,Destiny's Child,Cater 2 U,Destiny Fulfilled,album,2004,Pop,132
+17.0,595,Destiny's Child,Temptation,The Writing's On The Wall,album,1999,Pop,132
+18.0,595,Destiny's Child,"Bills, Bills, Bills (#1's Edit)",#1's,album,2003,Pop,132
+19.0,595,Destiny's Child,"Confessions (feat. Missy ""Misdemeanor"" Elliott)",The Writing's On The Wall,colaboracion,1999,Pop,132
+20.0,595,Destiny's Child,Through With Love,Destiny Fulfilled,album,2004,Pop,132
+21.0,595,Destiny's Child,Now That She's Gone,The Writing's On The Wall,album,1999,Pop,132
+22.0,595,Destiny's Child,Lose My Breath (#1's Edit),#1's,album,2003,Pop,132
+23.0,595,Destiny's Child,Soldier (feat. T.I. & Lil' Wayne) (Radio Edit),#1's,colaboracion,2003,Pop,132
+24.0,595,Destiny's Child,Hey Ladies,The Writing's On The Wall,album,1999,Pop,132
+25.0,595,Destiny's Child,Nasty Girl (Album Version),Survivor,album,2001,Pop,132
+26.0,595,Destiny's Child,Survivor (#1's Edit),#1's,album,2003,Pop,132
+27.0,595,Destiny's Child,Brown Eyes,Survivor,album,2001,Pop,132
+28.0,8235808,Destiny's Child,The Girl Is Mine (feat. Destiny's Child & Brandy) (Club Mix),The Girl Is Mine featuring Destiny's Child & Brandy (Remixes) - EP,colaboracion,2016,Dance,113
+29.0,595,Destiny's Child,If You Leave (feat. Next),The Writing's On The Wall,colaboracion,1999,Pop,132
+30.0,595,Destiny's Child,Stay,The Writing's On The Wall,album,1999,Pop,132
+31.0,595,Destiny's Child,Game Over,Destiny Fulfilled,album,2004,Pop,132
+32.0,595,Destiny's Child,T-Shirt,Destiny Fulfilled,album,2004,Pop,132
+33.0,595,Destiny's Child,Stand Up For Love (2005 World Children's Day Anthem) (Radio Edit),Stand Up For Love (2005 World Children's Day Anthem),ep,2005,Pop,132
+34.0,595,Destiny's Child,"No, No, No Pt. 2 (feat. Wyclef Jean)",Destiny's Child,colaboracion,1998,Pop,132
+35.0,595,Destiny's Child,Girl (Radio Version),Girl,ep,2005,Pop,132
+36.0,595,Destiny's Child,Get On The Bus (feat. Timbaland) (Featuring Timbaland),The Writing's On The Wall,colaboracion,1999,Pop,132
+37.0,595,Destiny's Child,Love,Destiny Fulfilled,album,2004,Pop,132
+38.0,595,Destiny's Child,"Destiny's Child - No, No, No Part 1 (Official Video) (Album Version)","Bills, Bills, Bills",ep,1999,Pop,132
+39.0,11174,Destiny's Child,Good To Me (feat. Destiny's Child) (Album Version),Thankful,colaboracion,2000,,-1
+40.0,595,Destiny's Child,Outro (Amazing Grace...dedicated to Andretta Tillman),The Writing's On The Wall,album,1999,Pop,132
+41.0,595,Destiny's Child,Outro (DC-3) Thank You,Survivor,album,2001,Pop,132
+42.0,595,Destiny's Child,Feel The Same Way I Do (Album Version),#1's,album,2003,Pop,132
+43.0,595,Destiny's Child,Independent Women Pt. II,The Writing's On The Wall,album,1999,Pop,132
+44.0,595,Destiny's Child,Is She The Reason,Destiny Fulfilled,album,2004,Pop,132
+45.0,595,Destiny's Child,Where'd You Go,The Writing's On The Wall,album,1999,Pop,132
+46.0,595,Destiny's Child,Stand Up For Love (2005 World Children's Day Anthem),#1's,album,2003,Pop,132
+47.0,595,Destiny's Child,Intro (The Writing's On The Wall),The Writing's On The Wall,album,1999,Pop,132
+48.0,595,Destiny's Child,Sweet Sixteen,The Writing's On The Wall,album,1999,Pop,132
+49.0,595,Destiny's Child,Second Nature (Album Version),Destiny's Child/The Writing's On The Wall,album,2002,Pop,132
+0.0,91,Missy Elliott,All N My Grill (feat. Big Boi of Outkast & Nicole),Da Real World,colaboracion,2007,Rap/Hip Hop,116
+1.0,2380,Missy Elliott,"Can We (feat. Missy ""Misdemeanor"" Elliott)",Release Some Tension,colaboracion,1997,R&B,165
+2.0,2619,Missy Elliott,Work (feat. Missy Elliott) (Main Version),Fantasy Ride,colaboracion,2009,Pop,132
+3.0,91,Missy Elliott,Friendly Skies (feat. Ginuwine),Supa Dupa Fly,colaboracion,2007,Rap/Hip Hop,116
+4.0,5603027,Missy Elliott,Back and Forth (feat. Missy Elliott),Kehlani,colaboracion,2026,R&B,165
+5.0,91,Missy Elliott,Get Ur Freak On,Miss E... So Addictive,album,2001,R&B,165
+6.0,2619,Missy Elliott,"1, 2 Step (feat. Missy Elliott) (Main)",Goodies,colaboracion,2005,Pop,132
+7.0,91,Missy Elliott,Work It,Under Construction,album,2002,Rap/Hip Hop,116
+8.0,91,Missy Elliott,Lose Control (feat. Ciara & Fat Man Scoop),The Cookbook,colaboracion,2005,Rap/Hip Hop,116
+9.0,139868812,Missy Elliott,My Own Drum (Remix) [with Missy Elliott],Vivo (Original Motion Picture Soundtrack),colaboracion,2021,Películas/Juegos,173
+10.0,91,Missy Elliott,Bring the Pain (feat. Method Man),Under Construction,colaboracion,2002,Rap/Hip Hop,116
+11.0,83,Missy Elliott,Whatcha Think About That,Doll Domination,colaboracion,2019,Pop,132
+12.0,256269,Missy Elliott,This Is Me (The Reimagined Remix),The Greatest Showman: Reimagined,colaboracion,2018,Pop,132
+13.0,525643,Missy Elliott,RATATA,Quest For Fire,colaboracion,2023,Electro,106
+14.0,4603,Missy Elliott,Bad Girl (feat. Missy Elliott),Welcome to the Dollhouse,colaboracion,2008,Pop,132
+15.0,65,Missy Elliott,Heartbreaker (feat. Da Brat & Missy Elliott),Heartbreaker EP,colaboracion,1999,Pop,132
+16.0,91,Missy Elliott,The Rain (Supa Dupa Fly),Supa Dupa Fly,album,2007,Rap/Hip Hop,116
+17.0,1538640,Missy Elliott,How Ya Doin'? (feat. Missy Elliott),DNA (Expanded Edition),colaboracion,2012,Pop,132
+18.0,91,Missy Elliott,Lick Shots,Miss E... So Addictive,album,2001,R&B,165
+19.0,91,Missy Elliott,One Minute Man (feat. Ludacris),Miss E... So Addictive,colaboracion,2001,R&B,165
+20.0,144227,Missy Elliott,Last Friday Night (T.G.I.F.),Teenage Dream: The Complete Confection,colaboracion,2012,Pop,132
+21.0,91,Missy Elliott,She's a Bitch,Da Real World,album,2007,Rap/Hip Hop,116
+22.0,8706544,Missy Elliott,Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix] [Mixed],Club Future Nostalgia (DJ Mix),colaboracion,2020,Dance,113
+23.0,91,Missy Elliott,4 My People (feat. Eve),Miss E... So Addictive,colaboracion,2001,R&B,165
+24.0,4390053,Missy Elliott,Lobby,Juicy,colaboracion,2025,R&B,165
+25.0,91,Missy Elliott,Get Ur Freak On,2000s Hip Hop and Rap,album,2026,Rap/Hip Hop,116
+26.0,9662,Missy Elliott,Bounce,Shock Value,colaboracion,2007,Rap/Hip Hop,116
+27.0,3878,Missy Elliott,Bad Girls (N.A.R.S. Remix),Bad Girls (The Remixes),colaboracion,2012,Electro,106
+28.0,595,Missy Elliott,"Confessions (feat. Missy ""Misdemeanor"" Elliott)",The Writing's On The Wall,colaboracion,1999,Pop,132
+29.0,262,Missy Elliott,BURNITUP!,BURNITUP!,colaboracion,2026,Pop,132
+30.0,2619,Missy Elliott,Level Up (feat. Missy Elliott & Fatman Scoop) (Remix),Level Up (feat. Missy Elliott & Fatman Scoop) (Remix),colaboracion,2018,Pop,132
+31.0,796,Missy Elliott,"Touch It (Remix/Featuring Mary J. Blige, Rah Digga & Missy Elliot Explicit)",Touch It Remixes,colaboracion,2006,Rap/Hip Hop,116
+32.0,542,Missy Elliott,Trampoline (Cedric Gervais Remix),Trampoline (Cedric Gervais Remix),colaboracion,2022,Dance,113
+33.0,282428,Missy Elliott,Free Yourself (feat. Missy Elliott),Free Yourself,colaboracion,2004,Pop,132
+34.0,7000,Missy Elliott,Oops (Oh My) [feat. Missy Elliott],Southern Hummingbird,colaboracion,2002,Pop,132
+35.0,91,Missy Elliott,Sock It 2 Me (feat. Da Brat),Supa Dupa Fly,colaboracion,2007,Rap/Hip Hop,116
+36.0,193875,Missy Elliott,All Night Long,Unbroken,colaboracion,2011,Pop,132
+37.0,253,Missy Elliott,Love Me Or Hate Me (Remix),Love Me Or Hate Me,colaboracion,2007,Pop,132
+38.0,796,Missy Elliott,Get It (feat. Missy Elliott & Kelly Rowland),Get It (feat. Missy Elliott & Kelly Rowland),colaboracion,2018,Rap/Hip Hop,116
+39.0,91,Missy Elliott,Hot Boyz,"Hot Boyz (feat. Nas, Eve & Q-Tip)",single,2004,Rap/Hip Hop,116
+40.0,2395,Missy Elliott,Party To Damascus (feat. Missy Elliott) (Main Version with intro),The Preacher's Son,colaboracion,2003,Rap/Hip Hop,116
+41.0,91,Missy Elliott,Gossip Folks (feat. Ludacris),Under Construction,colaboracion,2002,Rap/Hip Hop,116
+42.0,91,Missy Elliott,Cool Off,Cool Off,single,2020,Rap/Hip Hop,116
+43.0,91,Missy Elliott,Wake Up (feat. Jay-Z),This Is Not a Test!,colaboracion,2003,Rap/Hip Hop,116
+44.0,91,Missy Elliott,Pass That Dutch,Respect M.E.,album,2006,Rap/Hip Hop,116
+45.0,91,Missy Elliott,One Minute Man (feat. Ludacris),Respect M.E.,colaboracion,2006,Rap/Hip Hop,116
+46.0,206,Missy Elliott,One In A Million (feat Timbaland and Missy Elliott),One In A Million,colaboracion,2020,Rap/Hip Hop,116
+47.0,339209,Missy Elliott,Nobody's Perfect,Cole World: The Sideline Story,colaboracion,2018,Rap/Hip Hop,116
+48.0,145,Missy Elliott,Signs (feat. Missy Elliott) (Album Version),Dangerously In Love,colaboracion,2003,Pop,132
+49.0,91,Missy Elliott,Take Away (feat. Ginuwine),Miss E... So Addictive,colaboracion,2001,R&B,165
+0.0,112858,Alanis Morissette,Hand In My Pocket,A Tribute To Alanis Morissette,album,2001,Alternativo,85
+1.0,112858,Alanis Morissette,Ironic,A Tribute To Alanis Morissette,album,2001,Alternativo,85
+2.0,112858,Alanis Morissette,Uninvited,A Tribute To Alanis Morissette,album,2001,Alternativo,85
+3.0,112858,Alanis Morissette,Thank U,A Tribute To Alanis Morissette,album,2001,Alternativo,85
+4.0,177,Alanis Morissette,Ironic,The Collection (Standard Edition),album,2005,Pop,132
+5.0,177,Alanis Morissette,Hand in My Pocket (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+6.0,177,Alanis Morissette,Head Over Feet,Jagged Little Pill (25th Anniversary Deluxe Edition),album,2020,Pop,132
+7.0,177,Alanis Morissette,Thank U,Supposed Former Infatuation Junkie,album,2005,Pop,132
+8.0,177,Alanis Morissette,You Oughta Know (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+9.0,177,Alanis Morissette,Uninvited,The Collection (Standard Edition),album,2005,Pop,132
+10.0,177,Alanis Morissette,Ironic (Acoustic),Jagged Little Pill (Acoustic),album,2005,Pop,132
+11.0,177,Alanis Morissette,Ironic (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+12.0,177,Alanis Morissette,Hands Clean,The Collection (Standard Edition),album,2005,Pop,132
+13.0,177,Alanis Morissette,Crazy (James Michael Mix),The Collection (Standard Edition),album,2005,Pop,132
+14.0,177,Alanis Morissette,Hand in My Pocket (Acoustic),Jagged Little Pill (Acoustic),album,2005,Pop,132
+15.0,177,Alanis Morissette,You Learn,The Collection (Standard Edition),album,2005,Pop,132
+16.0,177,Alanis Morissette,All I Really Want (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+17.0,177,Alanis Morissette,Head over Feet (Live / Unplugged),Live / Unplugged,album,1999,Pop,132
+18.0,177,Alanis Morissette,Smiling,Such Pretty Forks In The Road,album,2020,Pop,132
+19.0,177,Alanis Morissette,In Praise of the Vulnerable Man,Flavors of Entanglement,album,2008,Pop,132
+20.0,177,Alanis Morissette,Everything,The Collection (Standard Edition),album,2005,Pop,132
+21.0,177,Alanis Morissette,Ironic (Live / Unplugged),Live / Unplugged,album,1999,Pop,132
+22.0,177,Alanis Morissette,Not the Doctor (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+23.0,177,Alanis Morissette,Excuses,So-Called Chaos,album,2004,Pop,132
+24.0,177,Alanis Morissette,Right Through You (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+25.0,177,Alanis Morissette,Forgiven (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+26.0,177,Alanis Morissette,You Oughta Know (Jimmy the Saint Blend) / Your House (A Capella; 2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+27.0,177,Alanis Morissette,That Particular Time,Under Rug Swept,album,2002,Pop,132
+28.0,177,Alanis Morissette,21 Things I Want in a Lover,Under Rug Swept,album,2002,Pop,132
+29.0,177,Alanis Morissette,I Was Hoping,Supposed Former Infatuation Junkie,album,2005,Pop,132
+30.0,177,Alanis Morissette,King of Pain (Live / Unplugged),Live / Unplugged,album,1999,Pop,132
+31.0,177,Alanis Morissette,Reasons I Drink,Reasons I Drink,single,2019,Pop,132
+32.0,177,Alanis Morissette,That I Would Be Good,Supposed Former Infatuation Junkie (Thank U Edition),album,1998,Pop,132
+33.0,177,Alanis Morissette,Joining You,Supposed Former Infatuation Junkie,album,2005,Pop,132
+34.0,177,Alanis Morissette,You Learn (Live / Unplugged),Live / Unplugged,album,1999,Pop,132
+35.0,177,Alanis Morissette,Nemesis,Such Pretty Forks In The Road,album,2020,Pop,132
+36.0,177,Alanis Morissette,Versions of Violence,Flavors of Entanglement,album,2008,Pop,132
+37.0,177,Alanis Morissette,Perfect (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+38.0,177,Alanis Morissette,Princes Familiar (Live / Unplugged),Live / Unplugged,album,1999,Pop,132
+39.0,177,Alanis Morissette,One,Supposed Former Infatuation Junkie,album,2005,Pop,132
+40.0,177,Alanis Morissette,On The Road Again,On The Road Again,colaboracion,2021,Pop,132
+41.0,177,Alanis Morissette,Coming Around Again,Coming Around Again,colaboracion,2025,Pop,132
+42.0,177,Alanis Morissette,Utopia,Under Rug Swept,album,2002,Pop,132
+43.0,177,Alanis Morissette,No Return (Extended Version From The Original Series “Yellowjackets”),No Return (Extended Version From The Original Series “Yellowjackets”),single,2023,Películas/Juegos,173
+44.0,177,Alanis Morissette,Rest,Rest,single,2021,Pop,132
+45.0,177,Alanis Morissette,Citizen of the Planet,Flavors of Entanglement,album,2008,Pop,132
+46.0,177,Alanis Morissette,guardian,havoc and bright lights,album,2012,Pop,132
+47.0,177,Alanis Morissette,Your House (Acoustic),Jagged Little Pill (Acoustic),album,2005,Pop,132
+48.0,177,Alanis Morissette,Wake Up (2015 Remaster),Jagged Little Pill (2015 Remaster),album,2015,Pop,132
+49.0,177,Alanis Morissette,empathy,havoc and bright lights,album,2012,Pop,132
+0.0,785,Spice Girls,Wannabe,Spice,album,1996,Pop,132
+1.0,785,Spice Girls,Who Do You Think You Are,Spice,album,1996,Pop,132
+2.0,785,Spice Girls,Spice Girls Party Mix,Spiceworld (25th Anniversary),album,2022,Pop,132
+3.0,785,Spice Girls,Viva Forever,Spiceworld,album,1997,Pop,132
+4.0,785,Spice Girls,Spice Up Your Life,Spiceworld,album,1997,Pop,132
+5.0,785,Spice Girls,Say You'll Be There,Spice,album,1996,Pop,132
+6.0,785,Spice Girls,Holler,Forever,album,2000,Rock,152
+7.0,785,Spice Girls,2 Become 1,Spice,album,1996,Pop,132
+8.0,785,Spice Girls,Bumper To Bumper,Wannabe,ep,2007,Pop,132
+9.0,785,Spice Girls,Mama (Radio Version),Greatest Hits,album,2007,Rock,152
+10.0,785,Spice Girls,Stop,Spiceworld,album,1997,Pop,132
+11.0,785,Spice Girls,If U Can't Dance,Ladies Night: Party Pop,album,2019,Pop,132
+12.0,785,Spice Girls,Spice Up Your Life (Murk Cuba Libre Mix),Spice Up Your Life,colaboracion,2007,Rock,152
+13.0,785,Spice Girls,Too Much,Spiceworld,album,1997,Pop,132
+14.0,785,Spice Girls,Mama,Spice,album,1996,Pop,132
+15.0,785,Spice Girls,2 Become 1 (Single Version),Greatest Hits,album,2007,Rock,152
+16.0,785,Spice Girls,Viva Forever (Radio Edit),Viva Forever,single,2007,Rock,152
+17.0,785,Spice Girls,Who Do You Think You Are,Who Do You Think You Are / Mama,ep,2003,Rock,152
+18.0,785,Spice Girls,The Lady Is A Vamp,Spiceworld,album,1997,Pop,132
+19.0,785,Spice Girls,Wannabe (Motiv 8 Dubslam Mix),Wannabe,colaboracion,2007,Pop,132
+20.0,785,Spice Girls,Goodbye (Single Edit),Goodbye,single,2003,Pop,132
+21.0,785,Spice Girls,Never Give Up On The Good Times,Spiceworld,album,1997,Pop,132
+22.0,785,Spice Girls,Love Thing,Spice,album,1996,Pop,132
+23.0,785,Spice Girls,Saturday Night Divas,Spiceworld,album,1997,Pop,132
+24.0,785,Spice Girls,Move Over,Spiceworld,album,1997,Pop,132
+25.0,785,Spice Girls,Right Back At Ya,Forever,album,2000,Rock,152
+26.0,785,Spice Girls,Oxygen,Forever,album,2000,Rock,152
+27.0,785,Spice Girls,Something Kinda Funny,Spice,album,1996,Pop,132
+28.0,785,Spice Girls,Weekend Love,Forever,album,2000,Rock,152
+29.0,785,Spice Girls,Naked,Spice,album,1996,Pop,132
+30.0,785,Spice Girls,Goodbye (Single Edit),Greatest Hits,album,2007,Rock,152
+31.0,785,Spice Girls,Last Time Lover,Spice,album,1996,Pop,132
+32.0,785,Spice Girls,Do It,Spiceworld,album,1997,Pop,132
+33.0,785,Spice Girls,Tell Me Why,Forever,album,2000,Rock,152
+34.0,785,Spice Girls,"Say You'll Be There (Live From Birmingham, UK / 1997)",Viva Forever,single,2007,Rock,152
+35.0,785,Spice Girls,"Who Do You Think You Are? (Live From Birmingham, UK / 1997)",Viva Forever,single,2007,Rock,152
+36.0,785,Spice Girls,Wasting My Time,Forever,album,2000,Rock,152
+37.0,785,Spice Girls,Walk Of Life,Spiceworld (25th Anniversary),album,2022,Pop,132
+38.0,785,Spice Girls,Denying,Spiceworld,album,1997,Pop,132
+39.0,785,Spice Girls,Step To Me (7'' Mix),Spiceworld (25th Anniversary),album,2022,Pop,132
+40.0,1194236,Spice Girls,"(How Does It Feel to Be) On Top of the World (feat. Echo & the Bunnymen, Ocean Colour Scene, Space, Spice Girls)","(How Does It Feel to Be) On Top of the World (feat. Echo & the Bunnymen, Ocean Colour Scene, Space, Spice Girls)",colaboracion,2022,Pop,132
+41.0,785,Spice Girls,Viva Forever (John Themis Ambient Mix),Spiceworld (25th Anniversary),album,2022,Pop,132
+42.0,785,Spice Girls,Too Much (Radio Edit),Greatest Hits,album,2007,Rock,152
+43.0,785,Spice Girls,Spice Up Your Life (Morales Radio Mix),Spice Up Your Life,colaboracion,2007,Rock,152
+44.0,785,Spice Girls,Christmas Wrapping,Goodbye,single,2003,Pop,132
+45.0,785,Spice Girls,Headlines (Friendship Never Ends),Greatest Hits,album,2007,Rock,152
+46.0,785,Spice Girls,Get Down With Me,Forever,album,2000,Rock,152
+47.0,785,Spice Girls,Let Love Lead The Way,Forever,album,2000,Rock,152
+48.0,785,Spice Girls,"Move Over (Live In Istanbul, Turkey / 1997)",Spiceworld (25th Anniversary),album,2022,Pop,132
+49.0,13896,Spice Girls,Viva Forever (Io ci saro),Pavarotti & Friends For The Children Of Liberia,colaboracion,1998,Clásica,98
+0.0,2459541,Shakira,Shakira,"Star Dance, Vol. 3",colaboracion,2011,,-1
+1.0,160,Shakira,Dai Dai,Dai Dai,colaboracion,2026,Música africana,2
+2.0,160,Shakira,Acróstico (Milan + Sasha),Acróstico (Milan + Sasha),single,2023,Pop,132
+3.0,160,Shakira,ALGO TÚ,ALGO TÚ,colaboracion,2026,Pop,132
+4.0,5297021,Shakira,TQG,MAÑANA SERÁ BONITO,colaboracion,2023,Rap/Hip Hop,116
+5.0,9219,Shakira,Zoo,"Zoo (From ""Zootopia 2""/Japanese Single Version)",colaboracion,2025,Películas/Juegos,173
+6.0,160,Shakira,Soltera,Soltera,single,2024,Pop,132
+7.0,12487862,Shakira,"Shakira: Bzrp Music Sessions, Vol. 53/66","Shakira: Bzrp Music Sessions, Vol. 53/66",colaboracion,2023,Latino,197
+8.0,7343,Shakira,La Bicicleta,VIVES,colaboracion,2017,Latino,197
+9.0,160,Shakira,Te Felicito,Te Felicito,colaboracion,2022,Rap/Hip Hop,116
+10.0,160,Shakira,La tortura,Sanz: Lo que fui es lo que soy (Banda Sonora Original),colaboracion,2018,Pop,132
+11.0,160,Shakira,Hips Don't Lie Anniversary Version,Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE,colaboracion,2025,Pop,132
+12.0,160,Shakira,Chantaje (feat. Maluma),El Dorado,colaboracion,2017,Pop,132
+13.0,160,Shakira,Hips Don't Lie (feat. Wyclef Jean),Filtr presents R&B Party,colaboracion,2014,R&B,165
+14.0,160,Shakira,Inevitable,Donde Estan Los Ladrones,album,1998,Latino,197
+15.0,4479,Shakira,Bésame,¿Y ahora qué +?,colaboracion,2025,Pop latino,138
+16.0,4479,Shakira,Ay Haiti!,Ay Haiti!,colaboracion,2010,Pop,132
+17.0,160,Shakira,Monotonía,Monotonía,colaboracion,2022,Rap/Hip Hop,116
+18.0,160,Shakira,Perro Fiel (feat. Nicky Jam),El Dorado,colaboracion,2017,Pop,132
+19.0,160,Shakira,"Whenever, Wherever",Laundry Service,album,2001,Latino,197
+20.0,160,Shakira,Tú,Donde Estan Los Ladrones,album,1998,Latino,197
+21.0,160,Shakira,"Ciega, Sordomuda",Donde Estan Los Ladrones,album,1998,Latino,197
+22.0,160,Shakira,DON'T YOU WORRY,DON'T YOU WORRY,colaboracion,2022,Dance,113
+23.0,160,Shakira,Addicted to You,Sale el Sol,album,2010,Pop,132
+24.0,160,Shakira,Try Everything,Zootopia (Original Motion Picture Soundtrack / Japanese version),album,2018,Películas/Juegos,173
+25.0,1020109,Shakira,GIRL LIKE ME,TRANSLATION,colaboracion,2020,Pop,132
+26.0,160,Shakira,Copa Vacía,Copa Vacía,colaboracion,2023,Latino,197
+27.0,160,Shakira,Ojos Así,Donde Estan Los Ladrones,album,1998,Latino,197
+28.0,160,Shakira,Waka Waka (Esto Es Africa) K-Mix,Sale el Sol,album,2010,Pop,132
+29.0,160,Shakira,No Creo,Donde Estan Los Ladrones,album,1998,Latino,197
+30.0,4390053,Shakira,Choka Choka,Choka Choka,colaboracion,2026,Latino,197
+31.0,160,Shakira,Rabiosa (feat. Pitbull),Sale el Sol,colaboracion,2010,Pop,132
+32.0,2789,Shakira,El Ultimo Adiós Varios Artistas Version,El Ultimo Adiós,colaboracion,2001,Pop,132
+33.0,160,Shakira,Si Te Vas,Donde Estan Los Ladrones,album,1998,Latino,197
+34.0,145,Shakira,Beautiful Liar,B'Day Deluxe Edition,colaboracion,2007,Pop,132
+35.0,160,Shakira,Clandestino,Clandestino,colaboracion,2018,Pop,132
+36.0,160,Shakira,Loca (feat. El Cata),Sale el Sol,colaboracion,2010,Pop,132
+37.0,160,Shakira,Me Gusta,Me Gusta,colaboracion,2020,Rap/Hip Hop,116
+38.0,160,Shakira,Can't Remember to Forget You (feat. Rihanna),Shakira. (Expanded Edition) (Spanish Version),colaboracion,2014,Alternativo,85
+39.0,160,Shakira,Octavo Día,Donde Estan Los Ladrones,album,1998,Latino,197
+40.0,4115,Shakira,Mi Verdad (feat. Shakira),Mi Verdad (feat. Shakira),colaboracion,2015,Pop,132
+41.0,160,Shakira,Puntería,Las Mujeres Ya No Lloran,colaboracion,2024,Pop,132
+42.0,7343,Shakira,La Bicicleta (feat. Maluma) (Remix),La Bicicleta (feat. Maluma) (Remix),colaboracion,2016,Pop,132
+43.0,160,Shakira,Las de la Intuición,Un Año de Éxitos 2007,album,2007,Pop,132
+44.0,160,Shakira,Dónde Están los Ladrones,Donde Estan Los Ladrones,album,1998,Latino,197
+45.0,380955,Shakira,Deja vu,FIVE (Deluxe Edition),colaboracion,2017,Latino,197
+46.0,712271,Shakira,"Y, ¿Si Fuera Ella? (+ Es +)","Y, ¿Si Fuera Ella? (+ Es +)",colaboracion,2017,Pop,132
+47.0,160,Shakira,Moscas en la Casa,Donde Estan Los Ladrones,album,1998,Latino,197
+48.0,160,Shakira,La Fuerte,Las Mujeres Ya No Lloran,colaboracion,2024,Pop,132
+49.0,4331004,Shakira,Eurosummer (Girls Trip),Midnight Sun: Girls Trip,colaboracion,2026,Pop,132
+0.0,45,Jennifer Lopez,On The Floor (Radio Edit),On The Floor,colaboracion,2011,Pop,132
+1.0,1545788,Jennifer Lopez,Almost Like Praying (feat. Artists for Puerto Rico) (Salsa Remix),Almost Like Praying (feat. Artists for Puerto Rico) (Salsa Remix),colaboracion,2018,Latino,197
+2.0,45,Jennifer Lopez,Save Me Tonight,Save Me Tonight,colaboracion,2026,Dance,113
+3.0,45,Jennifer Lopez,Ain't Your Mama,Ain't Your Mama,single,2016,Electro,106
+4.0,45,Jennifer Lopez,Let's Get Loud,On The 6 / J. Lo (Coffret 2 CD),album,2003,Pop,132
+5.0,2789,Jennifer Lopez,El Ultimo Adiós Varios Artistas Version,El Ultimo Adiós,colaboracion,2001,Pop,132
+6.0,776,Jennifer Lopez,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte),We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte),colaboracion,2014,Dance,113
+7.0,45,Jennifer Lopez,On The Floor,LOVE? (Deluxe Edition),colaboracion,2011,Pop,132
+8.0,45,Jennifer Lopez,Dance Again,Dance Again...The Hits,colaboracion,2012,Pop,132
+9.0,15898,Jennifer Lopez,Adrenalina (feat. Jennifer Lopez & Ricky Martin),El Regreso del Sobreviviente (Deluxe Edition),colaboracion,2014,Rap/Hip Hop,116
+10.0,45,Jennifer Lopez,Love Don't Cost a Thing,On The 6 / J. Lo (Coffret 2 CD),album,2003,Pop,132
+11.0,45,Jennifer Lopez,I'm Real (feat. Ja Rule),Dance Again...The Hits,colaboracion,2012,Pop,132
+12.0,45,Jennifer Lopez,Can't Get Enough,Can't Get Enough,single,2026,Pop,132
+13.0,112,Jennifer Lopez,Escapémonos Salsa Version,Valio La Pena,colaboracion,2004,Latino,197
+14.0,320004,Jennifer Lopez,Se Acabó el Amor (Urban Version),Se Acabó el Amor (Urban Version),colaboracion,2018,Pop,132
+15.0,45,Jennifer Lopez,Get Right,Rebirth,album,2005,Dance,113
+16.0,45,Jennifer Lopez,If You Had My Love,On The 6,album,1999,Pop,132
+17.0,45,Jennifer Lopez,I'm Into You,LOVE? (Deluxe Edition),colaboracion,2011,Pop,132
+18.0,45,Jennifer Lopez,Live It Up,Live It Up,colaboracion,2013,Pop,132
+19.0,45,Jennifer Lopez,El Anillo,El Anillo,single,2018,Pop,132
+20.0,45,Jennifer Lopez,Papi,LOVE? (Deluxe Edition),album,2011,Pop,132
+21.0,45,Jennifer Lopez,Jenny from the Block (feat. Styles P. & Jadakiss) (Track Masters Remix),Dance Again...The Hits,colaboracion,2012,Pop,132
+22.0,7688746,Jennifer Lopez,El Mismo Sol,Eterno Agosto,colaboracion,2020,Pop,132
+23.0,45,Jennifer Lopez,Qué Hiciste,Qué Hiciste,ep,2007,Pop,132
+24.0,45,Jennifer Lopez,I'm Into You,I'm Into You,colaboracion,2011,Pop,132
+25.0,45,Jennifer Lopez,Cambia el Paso,Cambia el Paso,colaboracion,2021,Rap/Hip Hop,116
+26.0,45,Jennifer Lopez,Goin' In,Goin' In,colaboracion,2012,Pop,132
+27.0,45,Jennifer Lopez,Baila Conmigo,Baila Conmigo,colaboracion,2019,Electro,106
+28.0,45,Jennifer Lopez,Pa Ti,Pa Ti + Lonely,colaboracion,2020,Pop,132
+29.0,45,Jennifer Lopez,Olvídame y Pega la Vuelta Tropical Version,Olvídame y Pega la Vuelta,colaboracion,2016,Pop,132
+30.0,380955,Jennifer Lopez,Back It Up (feat. Jennifer Lopez & Pitbull) (Spanish Version),Back It Up (feat. Jennifer Lopez & Pitbull) (Spanish Version),colaboracion,2015,Pop,132
+31.0,45,Jennifer Lopez,Ni Tú Ni Yo (feat. Gente de Zona),Ni Tú Ni Yo (feat. Gente de Zona),colaboracion,2017,Pop,132
+32.0,776,Jennifer Lopez,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte) (Olodum Mix),We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte) (Olodum Mix),colaboracion,2014,Alternativo,85
+33.0,45,Jennifer Lopez,Waiting for Tonight,On The 6,album,1999,Pop,132
+34.0,45,Jennifer Lopez,Ain't It Funny,J.Lo,album,2001,Pop,132
+35.0,75156,Jennifer Lopez,Follow The Leader,Follow The Leader,colaboracion,2012,Rap/Hip Hop,116
+36.0,45,Jennifer Lopez,"Amor, Amor, Amor (feat. Wisin)","Amor, Amor, Amor (feat. Wisin)",colaboracion,2017,Pop,132
+37.0,45,Jennifer Lopez,Save Me Tonight (Seth Hills Remix),Save Me Tonight (Seth Hills Remix),colaboracion,2026,Dance,113
+38.0,56125,Jennifer Lopez,Waiting For Tonight,Waiting For Tonight,colaboracion,2024,Electro,106
+39.0,45,Jennifer Lopez,Booty,Booty,colaboracion,2014,Pop,132
+40.0,10226,Jennifer Lopez,T.H.E (The Hardest Ever) (Explicit Version),T.H.E (The Hardest Ever),colaboracion,2011,Pop,132
+41.0,45,Jennifer Lopez,Olvídame y Pega la Vuelta,Olvídame y Pega la Vuelta,colaboracion,2016,Pop,132
+42.0,45,Jennifer Lopez,Save Me Tonight (DJs From Mars Remix),Save Me Tonight (DJs From Mars Remix),colaboracion,2026,Dance,113
+43.0,45,Jennifer Lopez,No Me Ames (with Marc Anthony) Tropical Remix,On The 6 / J. Lo (Coffret 2 CD),colaboracion,2003,Pop,132
+44.0,45,Jennifer Lopez,Save Me Tonight (feat. David Guetta) (Joel Corry Remix Extended),Save Me Tonight (feat. David Guetta) (Joel Corry Remix),colaboracion,2026,Dance,113
+45.0,45,Jennifer Lopez,Baby I Love U!,This Is Me...Then,album,2001,Pop,132
+46.0,776,Jennifer Lopez,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Opening Ceremony Version) (feat. Jennifer Lopez & Claudia Leitte),We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Opening Ceremony Version) (feat. Jennifer Lopez & Claudia Leitte),colaboracion,2014,Alternativo,85
+47.0,45,Jennifer Lopez,I'm Real,J.Lo,album,2001,Pop,132
+48.0,45,Jennifer Lopez,Brave,Brave,album,2007,Pop,132
+49.0,45,Jennifer Lopez,Invading My Mind,LOVE? (Deluxe Edition),album,2011,Pop,132
+0.0,6912,Courtney Love,Wedding Day,You Know My Name / Wedding Day,single,2014,Alternativo,85
+1.0,1446,Courtney Love,The Long And Winding Road / Hey Jude (Live 8 - Live from Hyde Park),LIVE 8 (3 Track),colaboracion,2005,Pop,132
+2.0,6912,Courtney Love,Mono,America's Sweetheart,album,2004,Rock,152
+3.0,6912,Courtney Love,I'll Do Anything,America's Sweetheart,album,2004,Rock,152
+4.0,6912,Courtney Love,Uncool,America's Sweetheart,album,2004,Rock,152
+5.0,6912,Courtney Love,You Know My Name,You Know My Name / Wedding Day,single,2014,Alternativo,85
+6.0,6912,Courtney Love,"But Julian, I'm A Little Bit Older Than You",America's Sweetheart,album,2004,Rock,152
+7.0,404,Courtney Love,Rat A Tat,Save Rock And Roll,colaboracion,2013,Alternativo,85
+8.0,6912,Courtney Love,All The Drugs,America's Sweetheart,album,2004,Rock,152
+9.0,6912,Courtney Love,Sunset Strip,America's Sweetheart,album,2004,Rock,152
+10.0,6912,Courtney Love,Hold On To Me,America's Sweetheart,album,2004,Rock,152
+11.0,6912,Courtney Love,Fly,Mono,single,2004,Rock,152
+12.0,6912,Courtney Love,Zeplin Song,America's Sweetheart,album,2004,Rock,152
+13.0,10087002,Courtney Love,Song To The Siren,Petrichor,colaboracion,2024,Alternativo,85
+14.0,6912,Courtney Love,Miss World,Unplugged & More,album,2019,Alternativo,85
+15.0,6912,Courtney Love,Drown Soda,Unplugged & More,album,2019,Alternativo,85
+16.0,6912,Courtney Love,Life Despite God,America's Sweetheart,album,2004,Rock,152
+17.0,6912,Courtney Love,Softer Softest,Unplugged & More,album,2019,Alternativo,85
+18.0,6912,Courtney Love,Mono (Alternate Version),Mono,single,2004,Rock,152
+19.0,6912,Courtney Love,Mother,The Turning (Original Motion Picture Soundtrack),colaboracion,2020,Películas/Juegos,173
+20.0,6912,Courtney Love,Hello,America's Sweetheart,album,2004,Rock,152
+21.0,6912,Courtney Love,Best Sunday Dress,Unplugged & More,album,2019,Alternativo,85
+22.0,6912,Courtney Love,He Hit Me (And It Felt Like a Kiss),Unplugged & More,album,2019,Alternativo,85
+23.0,6912,Courtney Love,Asking For It,Unplugged & More,album,2019,Alternativo,85
+24.0,6912,Courtney Love,You've Got No Right,Unplugged & More,album,2019,Alternativo,85
+25.0,6912,Courtney Love,Old Age,Unplugged & More,album,2019,Alternativo,85
+26.0,6912,Courtney Love,Hungry Like The Wolf,Unplugged & More,album,2019,Alternativo,85
+27.0,6912,Courtney Love,Doll Parts,Unplugged & More,album,2019,Alternativo,85
+28.0,6912,Courtney Love,Sugar Coma,Unplugged & More,album,2019,Alternativo,85
+29.0,6912,Courtney Love,Celebrity Skin,Unplugged & More,album,2019,Alternativo,85
+30.0,6912,Courtney Love,Awful,Unplugged & More,album,2019,Alternativo,85
+31.0,6912,Courtney Love,Reasons To Be Beautiful,Unplugged & More,album,2019,Alternativo,85
+32.0,6912,Courtney Love,Dying,Unplugged & More,album,2019,Alternativo,85
+33.0,6912,Courtney Love,Violet,Unplugged & More,album,2019,Alternativo,85
+34.0,6912,Courtney Love,Malibu,Unplugged & More,album,2019,Alternativo,85
+35.0,6912,Courtney Love,Heaven Tonight,Unplugged & More,album,2019,Alternativo,85
+36.0,6912,Courtney Love,Boys On The Radio,Unplugged & More,album,2019,Alternativo,85
+37.0,4483384,Courtney Love,Momma (Live),Levels of Love: Live (Deluxe Version),colaboracion,2015,,-1
+38.0,7196368,Courtney Love,Walk Out On Me (feat. Courtney Love),Empire: The Complete Season 1,colaboracion,2015,Pop,132
+39.0,6912,Courtney Love,Mother (Acoustic),The Turning: Kate's Diary,colaboracion,2020,Películas/Juegos,173
+40.0,120840232,Courtney Love,It Is Well (feat. Courtney Love),Late Arrival,colaboracion,2024,,-1
+41.0,6912,Courtney Love,Don't Mix the Colors,Kill Rock Stars,album,2009,Rock,152
+42.0,6912,Courtney Love,Almost Golden,America's Sweetheart,album,2004,Rock,152
+43.0,6912,Courtney Love,Never Gonna Be The Same (Edited),America's Sweetheart,album,2004,Pop,132
+44.0,12308358,Courtney Love,Bless His Name,Compassion 3-1-1,colaboracion,2017,,-1
+45.0,12308358,Courtney Love,Don't Give Up,Compassion 3-1-1,colaboracion,2017,,-1
+46.0,16432,Courtney Love,Rio Grande,"Son Of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys",colaboracion,2013,Rock,152
+47.0,13534093,Courtney Love,"Salvation (feat. Courtney Rages, Genreal, Christopher Michael Jensen, Moonshie Sax & Will Green)",Beyond,colaboracion,2024,Rap/Hip Hop,116
+48.0,5442799,Courtney Love,Situationship (feat. Dave Love & Jamal Woon),Situationship (feat. Dave Love & Jamal Woon),colaboracion,2019,R&B,165
+49.0,6912,Courtney Love,Honour,Honour,colaboracion,2015,Rock,152
+0.0,9052,Amy Winehouse,Back To Black,Back To Black,album,2006,R&B,165
+1.0,9052,Amy Winehouse,Rehab,Back To Black,album,2006,R&B,165
+2.0,13204,Amy Winehouse,Valerie (feat. Amy Winehouse) (Version Revisited),Version,colaboracion,2007,Pop,132
+3.0,9052,Amy Winehouse,Tears Dry On Their Own,Back To Black,album,2006,R&B,165
+4.0,9052,Amy Winehouse,"Valerie (Live At BBC Radio 1 Live Lounge, London / 2007)",Back To Black (Deluxe Edition),album,2013,R&B,165
+5.0,9052,Amy Winehouse,You Know I'm No Good,Back To Black,album,2006,R&B,165
+6.0,9052,Amy Winehouse,Love Is A Losing Game,Back To Black,album,2006,R&B,165
+7.0,9052,Amy Winehouse,Me & Mr Jones,Back To Black,album,2006,R&B,165
+8.0,9052,Amy Winehouse,Wake Up Alone,Back To Black,album,2006,R&B,165
+9.0,9052,Amy Winehouse,To Know Him Is To Love Him (Live From Dermot O'Leary's Saturday Sessions / 2006 / Short Version),To Know Him Is To Love Him (Live From Dermot O'Leary's Saturday Sessions / 2006),single,2026,Pop,132
+10.0,9052,Amy Winehouse,He Can Only Hold Her,Back To Black,album,2006,R&B,165
+11.0,9052,Amy Winehouse,Stronger Than Me,AMY (Original Motion Picture Soundtrack),album,2015,Películas/Juegos,173
+12.0,9052,Amy Winehouse,The Girl From Ipanema,Lioness: Hidden Treasures,album,2011,Pop,132
+13.0,9052,Amy Winehouse,Just Friends,Back To Black,album,2006,R&B,165
+14.0,9052,Amy Winehouse,You're Wondering Now,Back To Black (Deluxe Edition),album,2013,R&B,165
+15.0,4088,Amy Winehouse,Body and Soul,Duets II,colaboracion,2011,Pop,132
+16.0,9052,Amy Winehouse,Rehab (Live On Later... With Jools Holland / 2006),At The BBC,album,2021,Pop,132
+17.0,9052,Amy Winehouse,Some Unholy War,Back To Black,album,2006,R&B,165
+18.0,9052,Amy Winehouse,Tears Dry (Original Version),Lioness: Hidden Treasures,album,2011,Pop,132
+19.0,9052,Amy Winehouse,Intro / Stronger Than Me,Frank,album,2015,R&B,165
+20.0,9052,Amy Winehouse,Addicted,Back To Black,album,2006,R&B,165
+21.0,9052,Amy Winehouse,I Heard It Through The Grapevine (Live On Jools Holland Hootenanny / 31st December 2006),At The BBC,colaboracion,2021,Pop,132
+22.0,9052,Amy Winehouse,Our Day Will Come,Lioness: Hidden Treasures,album,2011,Pop,132
+23.0,9052,Amy Winehouse,What Is It About Men,Frank,album,2015,R&B,165
+24.0,9052,Amy Winehouse,"You Know I'm No Good (Live Jo Whiley, BBC Live Lounge Session / 2007)",At The BBC,album,2021,Pop,132
+25.0,9052,Amy Winehouse,Like Smoke,Lioness: Hidden Treasures,colaboracion,2011,Pop,132
+26.0,9052,Amy Winehouse,"Tears Dry On Their Own (Live Jo Whiley, BBC Live Lounge Session / 2007)",At The BBC,album,2021,Pop,132
+27.0,9052,Amy Winehouse,Take The Box (Live At Porchester Hall / 2007),At The BBC,album,2021,Pop,132
+28.0,9052,Amy Winehouse,Stronger Than Me (Live On Later... With Jools Holland / 2003),At The BBC,album,2021,Pop,132
+29.0,9052,Amy Winehouse,Moody's Mood For Love / Teo Licks,Frank,album,2015,R&B,165
+30.0,9052,Amy Winehouse,Help Yourself,Frank,album,2015,R&B,165
+31.0,9052,Amy Winehouse,Fuck Me Pumps,Frank,album,2015,R&B,165
+32.0,9052,Amy Winehouse,You Know I'm No Good,You Know I'm No Good (Remixes & B Sides),colaboracion,2015,R&B,165
+33.0,9052,Amy Winehouse,Will You Still Love Me Tomorrow? (2011),Lioness: Hidden Treasures,album,2011,Pop,132
+34.0,9052,Amy Winehouse,In My Bed,Frank,album,2015,R&B,165
+35.0,9052,Amy Winehouse,Rehab (Live From Dermot O'Leary's Saturday Sessions / 2006),At The BBC,album,2021,Pop,132
+36.0,9052,Amy Winehouse,(There Is) No Greater Love,Frank (Deluxe Edition),album,2008,R&B,165
+37.0,9052,Amy Winehouse,Fuck Me Pumps (Live From T In The Park / 2004),At The BBC,album,2021,Pop,132
+38.0,9052,Amy Winehouse,Tenderly (Live On Later... With Jools Holland / 2006),At The BBC,colaboracion,2021,Pop,132
+39.0,9052,Amy Winehouse,Take The Box,Frank,album,2015,R&B,165
+40.0,9052,Amy Winehouse,You Sent Me Flying / Cherry,Frank,album,2015,R&B,165
+41.0,9052,Amy Winehouse,Someone To Watch Over Me (Demo),Frank (Deluxe Edition),album,2008,R&B,165
+42.0,9052,Amy Winehouse,You Know I'm No Good (Live At Porchester Hall / 2007),At The BBC,album,2021,Pop,132
+43.0,9052,Amy Winehouse,I Should Care (Live From The Stables / 2004),At The BBC,album,2021,Pop,132
+44.0,9052,Amy Winehouse,In My Bed (Live From T In The Park / 2004),At The BBC,album,2021,Pop,132
+45.0,9052,Amy Winehouse,I Heard Love Is Blind (Live At Porchester Hall / 2007),At The BBC,album,2021,Pop,132
+46.0,9052,Amy Winehouse,Don't Go To Strangers (Live On Jools Holland Hootenanny / 2006),At The BBC,colaboracion,2021,Pop,132
+47.0,9052,Amy Winehouse,Monkey Man,Back To Black (Deluxe Edition),album,2013,R&B,165
+48.0,9052,Amy Winehouse,Cupid (Deluxe Edition Version),Back To Black (Deluxe Edition),album,2013,R&B,165
+49.0,9052,Amy Winehouse,Rehab (Live At Porchester Hall / 2007),At The BBC,album,2021,Pop,132
+0.0,183,TLC,No Scrubs,Fanmail,album,1999,R&B,165
+1.0,1202057,TLC,Techno Brass,Punkis de Conservatorio,album,2018,,-1
+2.0,141781342,TLC,Jehova re tla ho wena,Re a ho boka Morena,album,2024,,-1
+3.0,167736867,TLC,Quandale Dingle (Quan Artest Freestyle),Quandale Dingle (Quan Artest Freestyle),single,2023,Rap/Hip Hop,116
+4.0,6314220,TLC,El Taconaso,Misas Y Fiestas Mexicanas,colaboracion,1986,Clásica,98
+5.0,13726,TLC,Samba aristocr tico,"Mo ""Ringo"" Eira",album,2012,Música Brasileña,75
+6.0,94548382,TLC,Tlo Moya,Thapelo Yaka,album,2018,Alternativo,85
+7.0,92669632,TLC,MISS THC,PLUTON,colaboracion,2024,Rap/Hip Hop,116
+8.0,103405,TLC,Entrada De Artistas,Los Años Hípicos,album,2015,Alternativo,85
+9.0,5080,TLC,Technology (Jfl 2009),"Just for Laughs - The Archives, Vol. 13",colaboracion,2018,Películas/Juegos,173
+10.0,1202057,TLC,Techno Calor,BUTIBAMBA,album,2021,,-1
+11.0,152201102,TLC,Tldr: Trl,Walang Panginoon Ang Lupa,colaboracion,2022,Alternativo,85
+12.0,1202057,TLC,Obertura de Techno Brass,Punkis de Conservatorio,album,2018,,-1
+13.0,103239,TLC,Ne rencontre pas les artistes,Telle est la télé,album,2017,,-1
+14.0,81267492,TLC,"i'm not an artist, i'm your friend",masochists get all the girls,album,2022,Electro,106
+15.0,266587302,TLC,Tengo Tic Tac,"Various Artists, Vol. 9",album,2026,Electro,106
+16.0,10161764,TLC,Glock,Glock,single,2022,Rap/Hip Hop,116
+17.0,351028152,TLC,Toc Toc Toc Forró de Manaus,Toc Toc Toc Forró de Manaus,colaboracion,2026,Música Brasileña,75
+18.0,10731052,TLC,Bob (feat. Divelorie),Bob (feat. Divelorie),colaboracion,2019,Pop,132
+19.0,128006,TLC,My Favorite Ladies - MF Doom,High Times Presents THC Vol. 1,album,2005,Rap/Hip Hop,116
+20.0,15103965,TLC,Hottie (feat. BabyFace Ray),"You Still Here, Ho ?",colaboracion,2022,Rap/Hip Hop,116
+21.0,402158,TLC,Louis Baggage,Continuance,colaboracion,2022,Rap/Hip Hop,116
+22.0,183,TLC,Waterfalls,Crazysexycool,album,1994,R&B,165
+23.0,183,TLC,No Scrubs (Stripped Version),No Scrubs,colaboracion,1999,R&B,165
+24.0,183,TLC,Creep,Crazysexycool,album,1994,R&B,165
+25.0,183,TLC,Damaged,3D,album,2002,R&B,165
+26.0,183,TLC,Red Light Special,Crazysexycool,album,1994,R&B,165
+27.0,183,TLC,Somethin' You Wanna Know,Ooooooohhh... On The TLC Tip,album,1992,R&B,165
+28.0,183,TLC,No Scrubs (TLC Version),Wat3rfalls,ep,2023,R&B,165
+29.0,339209,TLC,Crooked Smile,Born Sinner,colaboracion,2013,Rap/Hip Hop,116
+30.0,310953061,TLC,I Wish,I Wish,single,2026,Música africana,2
+31.0,183,TLC,Creep (Re-Mastered Version),TLC (Deluxe),album,2017,R&B,165
+32.0,183,TLC,Diggin' On You,Crazysexycool,album,1994,R&B,165
+33.0,183,TLC,Waterfalls,20,album,2013,R&B,165
+34.0,183,TLC,Take Our Time,Crazysexycool,album,1994,R&B,165
+35.0,183,TLC,Sumthin' Wicked This Way Comes,Crazysexycool,album,1994,R&B,165
+36.0,4452092,TLC,DO IT! (AGAIN!) (feat. TLC),AIN'T NO DAMN WAY!,colaboracion,2025,Electro,106
+37.0,183,TLC,Shock Dat Monkey,Ooooooohhh... On The TLC Tip,album,1992,R&B,165
+38.0,183,TLC,No Scrubs,Now & Forever - The Hits,album,2003,Pop,132
+39.0,256005632,TLC,Unpretty (Don't Look Any Further Remix w/ Rap),The Legacy of Rn'B Party,colaboracion,2015,R&B,165
+40.0,183,TLC,Baby-Baby-Baby,Ooooooohhh... On The TLC Tip,album,1992,R&B,165
+41.0,183,TLC,Let's Do it Again,Crazysexycool,album,1994,R&B,165
+42.0,183,TLC,Dear Lie,TLC: Greatest Hits,album,2020,Rap/Hip Hop,116
+43.0,183,TLC,Meant to Be,TLC: Greatest Hits,album,2020,Rap/Hip Hop,116
+44.0,183,TLC,Case of the Fake People,Crazysexycool,album,1994,R&B,165
+45.0,183,TLC,Ain't 2 Proud 2 Beg,TLC: Greatest Hits,album,2020,Rap/Hip Hop,116
+46.0,183,TLC,Girl Talk (Radio Mix),TLC: Greatest Hits,album,2020,Rap/Hip Hop,116
+47.0,183,TLC,Kick Your Game,Crazysexycool,album,1994,R&B,165
+48.0,183,TLC,Intermission-lude,Crazysexycool,album,1994,R&B,165
+49.0,183,TLC,CrazySexyCool-Interlude,Crazysexycool,album,1994,R&B,165
+0.0,262,Janet Jackson,Together Again,The Velvet Rope (Deluxe Edition),album,2022,R&B,165
+1.0,259,Janet Jackson,Scream,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",colaboracion,2007,Pop,132
+2.0,262,Janet Jackson,That's The Way Love Goes,Janet,album,2000,R&B,165
+3.0,262,Janet Jackson,All For You,All For You,album,2001,Pop,132
+4.0,262,Janet Jackson,When I Think Of You,Best Of Number Ones,album,2018,Pop,132
+5.0,262,Janet Jackson,What Have You Done For Me Lately,Design Of A Decade 1986/1996,album,2018,Pop,132
+6.0,262,Janet Jackson,Someone To Call My Lover,All For You,album,2001,Pop,132
+7.0,262,Janet Jackson,Feedback,Discipline,album,2008,Pop,132
+8.0,262,Janet Jackson,Rhythm Nation,Rhythm Nation 1814,album,2015,R&B,165
+9.0,262,Janet Jackson,What Have You Done For Me Lately,Control,album,2007,Pop,132
+10.0,262,Janet Jackson,Got 'Til It's Gone,The Velvet Rope (Deluxe Edition),colaboracion,2022,R&B,165
+11.0,1545788,Janet Jackson,"96,000",In the Heights (Original Broadway Cast Recording),colaboracion,2008,Películas/Juegos,173
+12.0,262,Janet Jackson,Feedback (Single Version),Hip Hop: The Collection 2008,album,2008,Rap/Hip Hop,116
+13.0,262,Janet Jackson,All For You,All For You,ep,2001,R&B,165
+14.0,262,Janet Jackson,Miss You Much,Rhythm Nation 1814,album,2015,R&B,165
+15.0,262,Janet Jackson,Come Back To Me,Design Of A Decade 1986/1996,album,2018,Pop,132
+16.0,262,Janet Jackson,Nasty,Lip Sync Assassin,album,2021,Pop,132
+17.0,262,Janet Jackson,Call On Me,Mujeres Que Inspiran,colaboracion,2025,Pop,132
+18.0,521,Janet Jackson,"The Best Things In Life Are Free (From ""Mo' Money"" Soundtrack)",1992 Best of by uDiscover,colaboracion,2025,Pop,132
+19.0,262,Janet Jackson,All Nite (Don't Stop),songs to dance to (at 3:33 am),album,2025,Pop,132
+20.0,262,Janet Jackson,"Any Time, Any Place",Janet,album,2000,R&B,165
+21.0,262,Janet Jackson,Black Cat,Rhythm Nation 1814,album,2015,R&B,165
+22.0,262,Janet Jackson,If,Janet,album,2000,R&B,165
+23.0,262,Janet Jackson,Son Of A Gun (I Betcha Think This Song Is About You),All For You,colaboracion,2001,Pop,132
+24.0,262,Janet Jackson,Made For Now,Made For Now,colaboracion,2018,Pop,132
+25.0,262,Janet Jackson,Whoops Now (Single Version),Whoops Now,single,2007,R&B,165
+26.0,262,Janet Jackson,So Excited,20 Y.O.,colaboracion,2006,R&B,165
+27.0,262,Janet Jackson,Spending Time With You,Damita Jo,album,2004,R&B,165
+28.0,262,Janet Jackson,Together Again,Best Of Number Ones,album,2018,Pop,132
+29.0,262,Janet Jackson,R&B Junkie,Damita Jo,album,2004,R&B,165
+30.0,262,Janet Jackson,Again,Again,ep,2003,Pop,132
+31.0,262,Janet Jackson,Escapade,Rhythm Nation 1814,album,2015,R&B,165
+32.0,262,Janet Jackson,BURNITUP!,BURNITUP!,colaboracion,2026,Pop,132
+33.0,461,Janet Jackson,"Luv Me, Luv Me",Essential,colaboracion,2003,Reggae,144
+34.0,262,Janet Jackson,Whoops Now,Janet,album,2000,R&B,165
+35.0,9064930,Janet Jackson,Principal (feat. Janet Jackson),AM I THE DRAMA?,colaboracion,2025,Rap/Hip Hop,116
+36.0,262,Janet Jackson,Control,Control,album,2007,Pop,132
+37.0,262,Janet Jackson,I Get Lonely,The Velvet Rope (Deluxe Edition),album,2022,R&B,165
+38.0,262,Janet Jackson,You,The Velvet Rope,album,2022,R&B,165
+39.0,262,Janet Jackson,Damita Jo,Damita Jo,album,2004,R&B,165
+40.0,262,Janet Jackson,The Pleasure Principle,Control,album,2007,Pop,132
+41.0,262,Janet Jackson,Every Time,The Velvet Rope (Deluxe Edition),album,2022,R&B,165
+42.0,512,Janet Jackson,Feel It Boy,Tropical Storm,colaboracion,2002,,-1
+43.0,259,Janet Jackson,The Immortal Intro (Immortal Version),Immortal,colaboracion,2011,Pop,132
+44.0,262,Janet Jackson,Throb,Janet,album,2000,R&B,165
+45.0,262,Janet Jackson,The Great Forever,Unbreakable,album,2026,Pop,132
+46.0,259,Janet Jackson,Scream / Little Susie (Immortal Version),Immortal,colaboracion,2011,Pop,132
+47.0,7548,Janet Jackson,"The Best Things In Life Are Free (Classic 7"" Without Rap)",The Best Things In Life Are Free,colaboracion,2024,R&B,165
+48.0,262,Janet Jackson,Free Xone,The Velvet Rope,album,2022,R&B,165
+49.0,262,Janet Jackson,Runaway,Design Of A Decade 1986/1996,album,2018,Pop,132
+0.0,4242609,Cesária Évora,Yamore,Yamore,colaboracion,2024,,-1
+1.0,4086,Cesária Évora,Sodade,Cesaria Evora & ...,colaboracion,2010,,-1
+2.0,4086,Cesária Évora,Petit pays,Best Of,album,2002,,-1
+3.0,4086,Cesária Évora,Tiempo y Silencio,São Vicente di Longe,colaboracion,2001,,-1
+4.0,4086,Cesária Évora,Tchintchirote,Best Of,album,2002,,-1
+5.0,4086,Cesária Évora,Sodade,Miss Perfumado,album,1992,,-1
+6.0,4086,Cesária Évora,Saudade,Los Ultimos Cantos,album,2010,,-1
+7.0,4086,Cesária Évora,Ausencia,Cesaria Evora & ...,colaboracion,2010,,-1
+8.0,4242609,Cesária Évora,Yamore (Edit Version),Yamore (Edit Version),colaboracion,2024,,-1
+9.0,4086,Cesária Évora,Mar Azul,Best Of,album,2002,,-1
+10.0,4086,Cesária Évora,Crepuscular Solidão,Cesaria Evora & ...,colaboracion,2010,,-1
+11.0,4086,Cesária Évora,Beijo Roubado,Voz d' Amor,album,2003,,-1
+12.0,62996,Cesária Évora,E Preciso Perdoar,Red Hot & Rio,colaboracion,2011,Jazz,129
+13.0,4086,Cesária Évora,Besame Mucho (Bonus Track- Great Expectations OST),Great Expectations,album,1998,Películas/Juegos,173
+14.0,4086,Cesária Évora,Vaquinha Mansa,Café Atlantico,album,1999,,-1
+15.0,4086,Cesária Évora,Carnaval de São Vicente,Café Atlantico,album,1999,,-1
+16.0,4086,Cesária Évora,Jardim Prometido,Voz d' Amor,album,2003,,-1
+17.0,4086,Cesária Évora,Negue,Cesaria Evora & ...,colaboracion,2010,,-1
+18.0,1399,Cesária Évora,Yamore,Anthology,colaboracion,2011,,-1
+19.0,4086,Cesária Évora,Sodade,Cesaria Evora & ...,colaboracion,2010,,-1
+20.0,4086,Cesária Évora,Yamore,Cesaria Evora & ...,colaboracion,2010,,-1
+21.0,4086,Cesária Évora,Nho Antone Escaderode,Café Atlantico,album,1999,,-1
+22.0,4086,Cesária Évora,Vida Tem um So Vida,Best Of,album,2002,,-1
+23.0,4086,Cesária Évora,Um Pincelada,Cesaria Evora & ...,colaboracion,2010,,-1
+24.0,4086,Cesária Évora,Monte Cara,Voz d' Amor,album,2003,,-1
+25.0,4086,Cesária Évora,Saia Travada,Voz d' Amor,album,2003,,-1
+26.0,4086,Cesária Évora,Lua nha Testemunha,Best Of,album,2002,,-1
+27.0,4086,Cesária Évora,E Doce Morrer no Mar,Cesaria Evora & ...,colaboracion,2010,,-1
+28.0,4086,Cesária Évora,Flôr di nha Esperança,Café Atlantico,album,1999,,-1
+29.0,4086,Cesária Évora,Tudo Tem se Limite,Cesaria,album,1995,Pop,132
+30.0,4086,Cesária Évora,Angola,Best Of,album,2002,,-1
+31.0,4086,Cesária Évora,Lagrimas Negras,Cesaria Evora & ...,colaboracion,2010,,-1
+32.0,4086,Cesária Évora,Beijo de Longe,Café Atlantico,album,1999,,-1
+33.0,4086,Cesária Évora,Sorte,Café Atlantico,album,1999,,-1
+34.0,4086,Cesária Évora,Sangue de Beirona,Best Of,album,2002,,-1
+35.0,4242609,Cesária Évora,Yamore (Francis Mercier & André Soueid Remix),Yamore (Remixes),colaboracion,2024,,-1
+36.0,78441,Cesária Évora,Embarcação,Cesaria Evora & ...,colaboracion,2010,,-1
+37.0,4086,Cesária Évora,Mas um Sonho,Rogamar,album,2006,,-1
+38.0,4086,Cesária Évora,Cinturão Tem Mele (versão carnaval),Carnaval de Mindelo,ep,2018,,-1
+39.0,4086,Cesária Évora,Esperança,Mãe Carinhosa,album,2013,,-1
+40.0,4086,Cesária Évora,Amdjer de nos Terra,Voz d' Amor,album,2003,,-1
+41.0,4086,Cesária Évora,Africa Nossa (with Ismaël Lô),Cesaria Evora & ...,colaboracion,2010,,-1
+42.0,1554,Cesária Évora,Elle chante,Best Of,colaboracion,2018,Pop,132
+43.0,4086,Cesária Évora,Essencia D'vida,Mãe Carinhosa,album,2013,,-1
+44.0,4086,Cesária Évora,Voz d'Amor,Voz d' Amor,album,2003,,-1
+45.0,4086,Cesária Évora,Velocidade,Voz d' Amor,album,2003,,-1
+46.0,4086,Cesária Évora,Tortura,Best Of,album,2002,,-1
+47.0,4086,Cesária Évora,Pomba,Voz d' Amor,album,2003,,-1
+48.0,4086,Cesária Évora,Negue,Cesaria Evora & ...,colaboracion,2010,,-1
+49.0,12508,Cesária Évora,Mae Pa Fidje (feat. Cesária Evora),Cesaria Evora & ...,colaboracion,2010,,-1
+,2974,Sinéad O'Connor,Nothing Compares 2 U,So Far: The Best of Sinéad O'Connor,album,1997,Pop,132
+,2974,Sinéad O'Connor,Drink Before the War,Lion and the Cobra,album,1987,Pop,132
+,2974,Sinéad O'Connor,Nothing Compares 2 U (2009 Remaster),I Do Not Want What I Haven't Got (Deluxe Version),album,1990,Rock,152
+,2974,Sinéad O'Connor,Jerusalem,Lion and the Cobra,album,1987,Pop,132
+,2974,Sinéad O'Connor,Feel so Different (2009 Remaster),I Do Not Want What I Haven't Got (Deluxe Version),album,1990,Rock,152
+,2974,Sinéad O'Connor,All Apologies,Universal Mother,album,1994,Pop,132
+,2974,Sinéad O'Connor,Mandinka,So Far: The Best of Sinéad O'Connor,album,1997,Pop,132
+,401573,Sinéad O'Connor,GMF,Pale Green Ghosts,colaboracion,2013,Alternativo,85
+,612,Sinéad O'Connor,What Your Soul Sings (Remastered 2006),Collected,colaboracion,2006,Rap/Hip Hop,116
+,2974,Sinéad O'Connor,Jealous,Faith and Courage,album,2000,Pop,132
+,1251809,Sinéad O'Connor,One More Yard (Orchestral),One More Yard,colaboracion,2026,Pop,132
+,493,Sinéad O'Connor,Harbour,18,colaboracion,2026,Pop,132
+,2974,Sinéad O'Connor,Troy,Lion and the Cobra,album,1987,Pop,132
+,2974,Sinéad O'Connor,Jackie,Lion and the Cobra,album,1987,Pop,132
+,612,Sinéad O'Connor,Special Cases,100th Window,colaboracion,2003,Rap/Hip Hop,116
+,2974,Sinéad O'Connor,"Troy (Live at the Dominion Theatre, 1988)",Three Babies,ep,1990,Pop,132
+,2974,Sinéad O'Connor,Troy,Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,Just Like U Said It Would B,Lion and the Cobra,album,1987,Pop,132
+,2974,Sinéad O'Connor,The Emperor's New Clothes,I Do Not Want What I Haven't Got,album,1990,Pop,132
+,12565,Sinéad O'Connor,Mraya,Mraya,colaboracion,2015,,-1
+,612,Sinéad O'Connor,A Prayer For England,100th Window,colaboracion,2003,Rap/Hip Hop,116
+,2974,Sinéad O'Connor,Troy (2009 Remaster),I Do Not Want What I Haven't Got (Deluxe Version),album,1990,Rock,152
+,2974,Sinéad O'Connor,Black Boys on Mopeds,I Do Not Want What I Haven't Got,album,1990,Pop,132
+,2974,Sinéad O'Connor,You Do Something to Me (2009 Remaster),I Do Not Want What I Haven't Got (Deluxe Version),album,1990,Rock,152
+,166079,Sinéad O'Connor,Heroine,So Far: The Best of Sinéad O'Connor,colaboracion,1997,Pop,132
+,10597,Sinéad O'Connor,Mother (Live In Berlin),The Wall - Live In Berlin,colaboracion,2011,Rock,152
+,2974,Sinéad O'Connor,House of the Rising Sun,Thank You for Hearing Me,album,1994,Pop,132
+,2974,Sinéad O'Connor,You Cause So Much Sorrow,Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,Mandinka,Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,Feel So Different,Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,Fire on Babylon,So Far: The Best of Sinéad O'Connor,album,1997,Pop,132
+,2974,Sinéad O'Connor,I Want Your (Hands on Me),Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,No Man's Woman,Faith and Courage,album,2000,Pop,132
+,2974,Sinéad O'Connor,"Nothing Compares 2 U (Live in Europe, 1990) (2020 Remaster)",Nothing Compares 2 U [30th Anniversary Remaster],single,2020,Pop,132
+,2974,Sinéad O'Connor,The Emperor's New Clothes,Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,Thank You for Hearing Me,Universal Mother,album,1994,Pop,132
+,2974,Sinéad O'Connor,Why Don't You Do Right,Am I Not Your Girl?,album,1992,Pop,132
+,247948,Sinéad O'Connor,Anachie Gordon,The Sharon Shannon Collection 1990-2005,colaboracion,2006,,-1
+,2974,Sinéad O'Connor,Success Has Made a Failure of Our Home,Am I Not Your Girl?,album,1992,Pop,132
+,2974,Sinéad O'Connor,Last Day of Our Acquaintance,Live in London 1990,album,2025,Pop,132
+,2974,Sinéad O'Connor,Streetcars,"I'm Not Bossy, I'm the Boss (Deluxe Version)",album,2014,Pop,132
+,3332,Sinéad O'Connor,He Moved Through the Fair (with Sinéad O'Connor),The Long Black Veil,colaboracion,1995,Pop,132
+,2974,Sinéad O'Connor,You Made Me the Thief of Your Heart,So Far: The Best of Sinéad O'Connor,album,1997,Pop,132
+,2974,Sinéad O'Connor,In This Heart,Universal Mother,album,1994,Pop,132
+,3332,Sinéad O'Connor,The Foggy Dew (with Sinéad O'Connor),The Long Black Veil,colaboracion,1995,Pop,132
+,2974,Sinéad O'Connor,John I Love You,So Far: The Best of Sinéad O'Connor,album,1997,Pop,132
+,13644,Sinéad O'Connor,Sweet Soul Dream,Goodbye Jumbo,colaboracion,2006,Rock,152
+,1422,Sinéad O'Connor,1000 Mirrors,Enemy of the Enemy (Remastered),colaboracion,2003,Electro,106
+,2974,Sinéad O'Connor,Just Call Me Joe,Lion and the Cobra,album,1987,Pop,132
+,2974,Sinéad O'Connor,Scorn Not His Simplicity,Universal Mother,album,1994,Pop,132
