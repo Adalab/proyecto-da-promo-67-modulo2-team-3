@@ -83,8 +83,8 @@ Realización de consultas a la base de datos musicstream para obtener la informa
 En lo referente a la obtención de datos, se sube el código con el nombre de algunas artistas, no de todas porque se considera suficiente para ver como se han obtenido dichos datos. Con el resto de cantantes, bastaría cambiar el nombre y tendríamos sus datos también.
 
 ## **AUTORAS**
-Teresa Díaz-Toledo Fernández
-Natividad de María Guerrero Opazo
-Rocío Insunza González
-Cristina Sáenz Llorente
+-Teresa Díaz-Toledo Fernández
+-Natividad de María Guerrero Opazo
+-Rocío Insunza González
+-Cristina Sáenz Llorente
 
